@@ -40,15 +40,20 @@ public class BankMain {
 						}
 						else if(currentAccount.getPassword().equals(password)) {
 							passwordAccepted = true;
-							if(Double.parseDouble(accountNumber)<=1000) {
-								//Employee Menu
-								System.out.println("Were in!");
-								employeeMenu(currentAccount);
+							if(currentAccount.isApproved()) {
+								if(Double.parseDouble(accountNumber)<=1000) {
+									//Employee Menu
+									employeeMenu(currentAccount);
 								
+								}
+								else {
+									//Customer Menu
+									customerMenu(currentAccount);
+								}
 							}
 							else {
-								//Customer Menu
-					
+								System.out.println("Your account isn't approved yet please wait 3-5 business days since account creation to be approved. \nHave a good day.");
+								break;//goes to end of password block
 							}
 						}
 						else {
@@ -65,13 +70,16 @@ public class BankMain {
 			}	
 		}while(!valid);
 		scanner.close();
-		
-		 
 	}
 	
 	public static void employeeMenu(Account account) {
 		System.out.println(account.toString());
-		System.out.println();
+		System.out.print("Welome back");
 	}
+	
+	public static void customerMenu(Account account) {
+		System.out.println(account.toString());	
+	}
+	
 	
 }

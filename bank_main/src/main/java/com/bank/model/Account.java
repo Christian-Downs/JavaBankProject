@@ -4,21 +4,31 @@ public class Account {
 	private String accountNumber;
 	private String password;
 	private String type;
+	private boolean approved;
 	
-	public Account() {
-		
-	}
+
 	
-	public Account(String accountNumber,String password) {
+	public Account(String accountNumber,String password,boolean approved) {
 		super();
 		this.accountNumber = accountNumber;
 		this.password = password;
+		this.approved = approved;
 	}
 	
 	public String toString() {
 		return ("Account Number: " + this.accountNumber +"\nPassword: " + this.password + "\nAccountType: " + this.type);
 	}
+	public boolean isApproved() {
+		return approved;
+	}
 
+	public void setApproved(boolean approved) {
+		this.approved = approved;
+	}
+
+	public Account() {
+		
+	}
 	public String getAccountNumber() {
 		return accountNumber;
 	}

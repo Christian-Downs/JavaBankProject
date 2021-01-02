@@ -28,7 +28,7 @@ public class AccountSearchDAOImpl implements AccountSearchDAO{
 			PreparedStatement preparedStatement = connection.prepareStatement(sql);
 			ResultSet resultset = preparedStatement.executeQuery();
 			while(resultset.next()) {
-				Account account = new Account(resultset.getString("number"),resultset.getString("password"));
+				Account account = new Account(resultset.getString("number"),resultset.getString("password"), resultset.getBoolean("approved"));
 				if(Double.parseDouble(account.getAccountNumber())>=1000)
 					account.setAccountType("customer");
 				else
