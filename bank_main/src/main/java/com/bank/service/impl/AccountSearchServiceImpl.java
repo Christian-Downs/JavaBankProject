@@ -13,15 +13,8 @@ public class AccountSearchServiceImpl implements AccountSearchService {
 	private AccountSearchDAO accountSearcher = new AccountSearchDAOImpl();
 	@Override
 	public Account getAccountByAccountNumber(String accountNumber) throws AccountException {
-		List<Account> accounts = accountSearcher.getAllAccounts();
-		try{
-			Account currentAccount = accounts.stream().filter(a->(accountNumber.equals(a.getAccountNumber()))).collect(Collectors.toList()).get(0);
-			return currentAccount;
-		}
-		catch(IndexOutOfBoundsException e) {
-			return null;
-		}
-		
+		System.out.println("AccountSearchService within getAccountNumber with accountNumber = " + accountNumber);
+		return accountSearcher.getAccountByAccountNumber(accountNumber);
 	}
 
 	@Override

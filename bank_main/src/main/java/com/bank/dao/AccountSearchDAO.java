@@ -8,4 +8,5 @@ import com.bank.model.Account;
 public interface AccountSearchDAO {
 	public Account getAccountByAccountNumber(String accountNumber) throws AccountException;
 	public List<Account> getAllAccounts() throws AccountException;
+	public List<Account> getAllUnapproved() throws AccountException;
 }

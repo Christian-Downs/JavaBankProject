@@ -10,6 +10,7 @@ import java.util.stream.Collectors;
 
 import com.bank.dao.EmployeeFinderDAO;
 import com.bank.dao.dbutil.PostresqlConnection;
+import com.bank.exception.AccountException;
 import com.bank.exception.EmployeeException;
 import com.bank.model.Account;
 import com.bank.model.Employee;
@@ -38,11 +39,31 @@ public class EmployeeFinderDAOImpl implements EmployeeFinderDAO{
 	}
 	@Override
 	public Employee findEmployeeByAccountNumber(String accountNumber) throws EmployeeException {
-		try{
-			return getAllEmployees().stream().filter(e->e.getAccountNumber().equals(accountNumber)).collect(Collectors.toList()).get(0);	}
-		}
-	catch(EmployeeException e) {
+		Employee employee = null;
 		
+		try(Connection connection = PostresqlConnection.getConnection()){
+			String sql = "select * from \"BankProject\".employee where \"accountNumber\"=?";
+			PreparedStatement preparedStatement = connection.prepareStatement(sql);
+			preparedStatement.setString(1, accountNumber);
+			ResultSet resultSet = preparedStatement.executeQuery();
+			System.out.println("Query Excecuted");
+			if(resultSet.next())
+			{
+				System.out.println("If in DAO");
+				employee = new Employee(resultSet.getString("accountNumber"),resultSet.getString("accessLevel"),resultSet.getString("name"),resultSet.getDate("dateOfBirth"),resultSet.getDate("startDate"),resultSet.getBoolean("stillhired"));
+				
+			} else {
+				System.out.println("else in dao");
+				throw new EmployeeException("No employee under the account number " + accountNumber);
+			}
+			
+		} catch (ClassNotFoundException | SQLException e) {
+			System.out.println("exception in DAO");
+			System.out.println(e.getMessage());
+			throw new EmployeeException("Internal error occured contact bank");
+		}
+		return employee;
 	}
 		
+	
 }

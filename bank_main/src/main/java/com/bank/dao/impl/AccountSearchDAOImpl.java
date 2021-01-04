@@ -16,8 +16,29 @@ public class AccountSearchDAOImpl implements AccountSearchDAO{
 
 	@Override
 	public Account getAccountByAccountNumber(String accountNumber) throws AccountException {
-		// TODO Auto-generated method stub
-		return null;
+		Account account = null;
+		
+		try(Connection connection = PostresqlConnection.getConnection()){
+			String sql = "select * from \"BankProject\".account where number=?";
+			PreparedStatement preparedStatement = connection.prepareStatement(sql);
+			preparedStatement.setString(1, accountNumber);
+			ResultSet resultSet = preparedStatement.executeQuery();
+			System.out.println("Query Excecuted");
+			if(resultSet.next())
+			{
+				System.out.println("If in DAO");
+				account = new Account(resultSet.getString("number"),resultSet.getString("password"),resultSet.getBoolean("approved"));
+			} else {
+				System.out.println("else in dao");
+				throw new AccountException("No account under the account number " + accountNumber);
+			}
+			
+		} catch (ClassNotFoundException | SQLException e) {
+			System.out.println("exception in DAO");
+			System.out.println(e.getMessage());
+			throw new AccountException("Internal error occured contact bank");
+		}
+		return account;
 	}
 
 	@Override
@@ -26,9 +47,9 @@ public class AccountSearchDAOImpl implements AccountSearchDAO{
 		try (Connection connection = PostresqlConnection.getConnection()){
 			String sql = "select * from \"BankProject\".account";
 			PreparedStatement preparedStatement = connection.prepareStatement(sql);
-			ResultSet resultset = preparedStatement.executeQuery();
-			while(resultset.next()) {
-				Account account = new Account(resultset.getString("number"),resultset.getString("password"), resultset.getBoolean("approved"));
+			ResultSet resultSet = preparedStatement.executeQuery();
+			while(resultSet.next()) {
+				Account account = new Account(resultSet.getString("number"),resultSet.getString("password"), resultSet.getBoolean("approved"));
 				if(Double.parseDouble(account.getAccountNumber())>=1000)
 					account.setAccountType("customer");
 				else
@@ -44,6 +65,24 @@ public class AccountSearchDAOImpl implements AccountSearchDAO{
 			throw new AccountException("Internal error occured");
 		}
 		return accountList;
+	}
+	
+	@Override
+	public List<Account> getAllUnapproved() throws AccountException {
+		List<Account> accountList = new ArrayList<>();
+		try(Connection connection = PostresqlConnection.getConnection()){
+			String sql = "select * from \"BankProject\".account where account = false";
+			PreparedStatement preparedStatement = connection.prepareStatement(sql);
+			ResultSet resultSet = preparedStatement.executeQuery();
+			while(resultSet.next()) {
+				Account account = new Account(resultSet.getString("number"),resultSet.getString("password"),resultSet.getBoolean("approved"));
+				accountList.add(account);
+			}
+			return accountList;
+		} catch (ClassNotFoundException | SQLException e) {
+			throw new AccountException("Internal error occured fetching accounts");
+		}
+		
 	}
 	
 }
