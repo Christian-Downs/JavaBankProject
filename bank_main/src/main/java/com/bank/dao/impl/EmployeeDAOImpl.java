@@ -8,14 +8,18 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;
 
-import com.bank.dao.EmployeeFinderDAO;
+import org.apache.log4j.Logger;
+
+import com.bank.dao.EmployeeDAO;
 import com.bank.dao.dbutil.PostresqlConnection;
 import com.bank.exception.AccountException;
 import com.bank.exception.EmployeeException;
+import com.bank.main.BankMain;
 import com.bank.model.Account;
 import com.bank.model.Employee;
 
-public class EmployeeFinderDAOImpl implements EmployeeFinderDAO{
+public class EmployeeDAOImpl implements EmployeeDAO{
+	private static Logger log = Logger.getLogger(EmployeeDAOImpl.class);
 	@Override
 	public List<Employee> getAllEmployees() throws EmployeeException{
 		List<Employee> employeeList = new ArrayList();
@@ -46,20 +50,20 @@ public class EmployeeFinderDAOImpl implements EmployeeFinderDAO{
 			PreparedStatement preparedStatement = connection.prepareStatement(sql);
 			preparedStatement.setString(1, accountNumber);
 			ResultSet resultSet = preparedStatement.executeQuery();
-			System.out.println("Query Excecuted");
+			log.debug("Query Excecuted");
 			if(resultSet.next())
 			{
-				System.out.println("If in DAO");
+				log.debug("If in DAO");
 				employee = new Employee(resultSet.getString("accountNumber"),resultSet.getString("accessLevel"),resultSet.getString("name"),resultSet.getDate("dateOfBirth"),resultSet.getDate("startDate"),resultSet.getBoolean("stillhired"));
 				
 			} else {
-				System.out.println("else in dao");
+				log.debug("else in dao");
 				throw new EmployeeException("No employee under the account number " + accountNumber);
 			}
 			
 		} catch (ClassNotFoundException | SQLException e) {
-			System.out.println("exception in DAO");
-			System.out.println(e.getMessage());
+			log.trace("exception in DAO");
+			log.trace(e.getMessage());
 			throw new EmployeeException("Internal error occured contact bank");
 		}
 		return employee;

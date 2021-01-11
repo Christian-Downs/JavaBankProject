@@ -7,13 +7,17 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.bank.dao.AccountSearchDAO;
+import org.apache.log4j.Logger;
+
+import com.bank.dao.AccountDAO;
 import com.bank.dao.dbutil.PostresqlConnection;
 import com.bank.exception.AccountException;
 import com.bank.model.Account;
 
-public class AccountSearchDAOImpl implements AccountSearchDAO{
+import jdk.internal.org.jline.utils.Log;
 
+public class AccountDAOImpl implements AccountDAO{
+	private static Logger log = Logger.getLogger(AccountDAOImpl.class);
 	@Override
 	public Account getAccountByAccountNumber(String accountNumber) throws AccountException {
 		Account account = null;
@@ -23,19 +27,24 @@ public class AccountSearchDAOImpl implements AccountSearchDAO{
 			PreparedStatement preparedStatement = connection.prepareStatement(sql);
 			preparedStatement.setString(1, accountNumber);
 			ResultSet resultSet = preparedStatement.executeQuery();
-			System.out.println("Query Excecuted");
+			log.debug("Query Excecuted");
 			if(resultSet.next())
 			{
-				System.out.println("If in DAO");
-				account = new Account(resultSet.getString("number"),resultSet.getString("password"),resultSet.getBoolean("approved"));
+				log.debug("If in DAO");
+				account = new Account(resultSet.getString("number"),resultSet.getString("password"));
 			} else {
-				System.out.println("else in dao");
+				log.debug("else in dao");
 				throw new AccountException("No account under the account number " + accountNumber);
+			}
+			if(Double.parseDouble(account.getAccountNumber())>1000){
+				account.setAccountType("Customer");
+			} else {
+				account.setAccountType("Employee");
 			}
 			
 		} catch (ClassNotFoundException | SQLException e) {
-			System.out.println("exception in DAO");
-			System.out.println(e.getMessage());
+			log.trace("exception in DAO");
+			log.trace(e.getMessage());
 			throw new AccountException("Internal error occured contact bank");
 		}
 		return account;
@@ -49,7 +58,7 @@ public class AccountSearchDAOImpl implements AccountSearchDAO{
 			PreparedStatement preparedStatement = connection.prepareStatement(sql);
 			ResultSet resultSet = preparedStatement.executeQuery();
 			while(resultSet.next()) {
-				Account account = new Account(resultSet.getString("number"),resultSet.getString("password"), resultSet.getBoolean("approved"));
+				Account account = new Account(resultSet.getString("number"),resultSet.getString("password"));
 				if(Double.parseDouble(account.getAccountNumber())>=1000)
 					account.setAccountType("customer");
 				else
@@ -61,7 +70,7 @@ public class AccountSearchDAOImpl implements AccountSearchDAO{
 			}
 			
 		} catch(ClassNotFoundException | SQLException e) {
-			System.out.println(e);
+			Log.trace(e.getMessage());
 			throw new AccountException("Internal error occured");
 		}
 		return accountList;
@@ -75,7 +84,7 @@ public class AccountSearchDAOImpl implements AccountSearchDAO{
 			PreparedStatement preparedStatement = connection.prepareStatement(sql);
 			ResultSet resultSet = preparedStatement.executeQuery();
 			while(resultSet.next()) {
-				Account account = new Account(resultSet.getString("number"),resultSet.getString("password"),resultSet.getBoolean("approved"));
+				Account account = new Account(resultSet.getString("number"),resultSet.getString("password"));
 				accountList.add(account);
 			}
 			return accountList;
