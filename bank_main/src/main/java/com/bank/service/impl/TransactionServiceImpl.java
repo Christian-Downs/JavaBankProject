@@ -40,8 +40,9 @@ public class TransactionServiceImpl implements TransactionService{
 
 	@Override
 	public Transaction newTransaction(Transaction transaction) throws TransactionException {
-		// TODO Auto-generated method stub
-		return null;
+		log.debug("inserting new Transaction from Service");
+		transactionDAO.newTransaction(transaction);
+		return transaction;
 	}
 
 }

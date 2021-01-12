@@ -12,13 +12,18 @@ import org.apache.log4j.Logger;
 
 import com.bank.dao.CustomerDAO;
 import com.bank.dao.dbutil.PostresqlConnection;
+import com.bank.exception.AccountException;
 import com.bank.exception.CustomerException;
+import com.bank.model.Account;
 import com.bank.model.Customer;
+import com.bank.service.AccountService;
+import com.bank.service.impl.AccountServiceImpl;
 
 import jdk.internal.net.http.common.Log;
 
 public class CustomerDAOImpl implements CustomerDAO{
 	private static Logger log = Logger.getLogger(CustomerDAOImpl.class);
+	private AccountService accountServicer = new AccountServiceImpl();
 	@Override
 	public Customer findCustomerByAccountNumber(String accountNumber) throws CustomerException {
 		log.debug("starting the DAO search");
@@ -108,6 +113,64 @@ public class CustomerDAOImpl implements CustomerDAO{
 			log.debug(e);
 			log.debug("ERROR INSIDE THE CONNECTOR FOR THE APPROVAL PROCESS");
 			log.info("PLEASE CONTACT IT THERE IS AN ERROR IN THE APPROVAL SECTION");
+		}
+		
+	}
+
+	@Override
+	public void insertCustomer(Customer customer) throws CustomerException {
+		log.debug("Inserting customer from the DAO");
+		Connection connection;
+		try {
+			connection = PostresqlConnection.getConnection();
+			accountServicer.insertAccount((Account)customer);
+			String sql = "INSERT INTO \"BankProject\".customer (name,accountnumber,\"dateOfBirth\",\"creationDate\",type,amount,approved) VALUES(?,?,?,?,?,?,false);";
+			PreparedStatement preparedStatement = connection.prepareStatement(sql);
+			preparedStatement.setString(1, customer.getName());
+			preparedStatement.setString(2,	customer.getAccountNumber());
+			preparedStatement.setDate(3, customer.getDateOfBirth());
+			preparedStatement.setDate(4, customer.getCreationDate());
+			preparedStatement.setString(5, customer.getType());
+			preparedStatement.setDouble(6, customer.getAmount());
+			
+			if(preparedStatement.executeUpdate()!=0) {
+				log.info("Your successfully Registered");
+			}
+			else {
+				
+				throw new CustomerException("An error occured please contact customer service");
+			}
+		} catch (ClassNotFoundException | SQLException e) {
+			// TODO Auto-generated catch block
+			log.trace("ERROR INSIDE OF DAO FOR INSERT CUSTOMER");
+			log.trace(e);
+			throw new CustomerException("An error occured please contact customer service");
+		}catch( AccountException e) {
+			throw new CustomerException(e.getMessage());
+		}
+
+		
+	}
+
+	@Override
+	public String makeAccountNumber() throws CustomerException {
+		log.debug("finding the next accountNumber");
+		try {
+			Connection connection = PostresqlConnection.getConnection();
+			String sql = "Select MAX(accountnumber) from \"BankProject\".customer";
+			PreparedStatement preparedStatement = connection.prepareStatement(sql);
+			ResultSet resultSet = preparedStatement.executeQuery();
+			String output =null;
+			while(resultSet.next()) {
+				output =  resultSet.getString("max");
+			}
+			double outputIntoDouble = Double.parseDouble(output);
+			outputIntoDouble++;
+			output = String.valueOf(Double.valueOf(outputIntoDouble).intValue());
+			return output;
+		}catch (ClassNotFoundException | SQLException e) {
+			log.trace(e);
+			throw new CustomerException("ERROR INSIDE THE MAKE ACCOUNT NUMBER METHOD");
 		}
 		
 	}

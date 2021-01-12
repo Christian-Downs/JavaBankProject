@@ -1,6 +1,10 @@
 package com.bank.main;
 
 
+import java.sql.Date;
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
+import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
@@ -228,7 +232,96 @@ public class BankMain{
 	
 	public static boolean register() {
 		
-		return false;
+		Customer customer = new Customer();
+		log.info("Welcome to Downs and Downs bank please fill out this form and we will get the approval process underway!");
+		log.info("--------------------------------------------------------------------------------------------------------");
+		log.info("Full Name:");
+		customer.setName(scanner.nextLine());
+		log.info("Password:");
+		customer.setPassword(scanner.nextLine());
+		boolean validDateOfBirth=false;
+		do {
+			log.info("Date Of Birth in yyyy-mm-dd:");
+			try {
+				
+				String dateOfBirthString = scanner.nextLine();
+				if(dateOfBirthString.matches("[1-2][0-9]{3}-[0-1][0-9]-[0-3][0-9]")) {
+					SimpleDateFormat formater = new SimpleDateFormat("yyyy-MM-dd");
+					formater.setLenient(false);
+					java.util.Date dateOfBirthUtil = formater.parse(dateOfBirthString);
+					Date dateOfBirthSQL = new Date(dateOfBirthUtil.getTime()); 
+					customer.setDateOfBirth(dateOfBirthSQL);
+					validDateOfBirth=true;
+				}else {
+					log.info("invalid date please try again");
+				}
+			}catch(ParseException e) {
+				log.info("invalid date please try again");
+			}
+		}while(!validDateOfBirth);
+		
+		customer.setCreationDate(Date.valueOf(LocalDate.now()));
+		for(boolean validChoice=false;!validChoice;) {
+			log.info("What type of account would you like to open?:");
+			log.info("1)Checkings");
+			log.info("2)Savings");
+			try {
+				int choice = Integer.parseInt(scanner.nextLine());
+				switch (choice) {
+				case 1:
+					customer.setType("Checkings");
+					validChoice=true;
+					break;
+				case 2:
+					customer.setType("Savings");
+					validChoice=true;
+					break;
+				default:
+					log.info("Invalid choice please try again.");
+					break;
+				}
+			}catch(NumberFormatException e) {
+				log.info("Ivalid input please try again.");
+				break;
+			}
+		}
+		
+		log.info("Please insert cash (type done when done):");
+		int cashInserted =0;
+		for(boolean done=false; !done;) {
+			try {
+				String input = scanner.nextLine();
+				if(input.equals("done")) {
+					done=true;
+					break;
+				}
+				int cash = Integer.parseInt(input);
+				cashInserted+=cash;
+				log.info(cash + " has been accepted your new total is " + cashInserted +" please enter more to continue or type done to be done");
+				
+			}catch(NumberFormatException e) {
+				log.info("Invalid input please try again");
+			}
+			
+		}
+		
+		customer.setAmount(cashInserted);
+
+		customer.setApproved(false);
+		try {
+			customer.setAccountNumber(customerServicer.makeAccountNumber());
+		
+			customerServicer.insertCustomer(customer);
+			log.info("Succefully registered");
+			log.info("Your account number is " + customer.getAccountNumber());
+			log.info("Please wait 3-5 business days to be approved");
+		} catch (CustomerException e) {
+			// TODO Auto-generated catch block
+			log.info("AN ERROR HAS OCCURED PLEASE SEE A CUSTOMER SERVICE REP");
+			log.debug(e.getMessage());
+			return false;
+		}
+		return true;    
 	}
 	
 	

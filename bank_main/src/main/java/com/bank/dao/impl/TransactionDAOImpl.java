@@ -50,6 +50,7 @@ public class TransactionDAOImpl implements TransactionDAO {
 			while(resultSet.next()) {
 				transactions.add(new Transaction(resultSet.getString("accountnumber"),resultSet.getInt("id"),resultSet.getDouble("previousamount"),resultSet.getDouble("newamount"),resultSet.getDouble("transactionamount"),resultSet.getDate("date")));
 			}
+			log.debug("all transactions given");
 		}catch(ClassNotFoundException| SQLException e) {
 			log.trace("ERROR INSIDE GET ALL FOR TRANSACTION DAO");
 		}
@@ -58,26 +59,26 @@ public class TransactionDAOImpl implements TransactionDAO {
 
 	@Override
 	public List<Transaction> getAllTransactionsOfACustomer(Customer customer) throws TransactionException {
-		List<Transaction> transactions = null;
+		List<Transaction> transactions = new ArrayList();
 		try {
-			String sql = "select * from \"BankProject\".transaction";
+			String sql = "select * from \"BankProject\".transaction where accountnumber = ?";
 			Connection connection = PostresqlConnection.getConnection();
 			PreparedStatement preparedStatement = connection.prepareStatement(sql);
+			preparedStatement.setString(1, customer.getAccountNumber());
 			ResultSet resultSet = preparedStatement.executeQuery(sql);
-			
+			while(resultSet.next()) {
+				transactions.add(new Transaction(resultSet.getString("accountnumber"),resultSet.getInt("id"),resultSet.getDouble("previousamount"),resultSet.getDouble("newamount"),resultSet.getDouble("transactionamount"),resultSet.getDate("date")));
+			}
+			return transactions;
 		}catch(ClassNotFoundException| SQLException e) {
-			
+			throw new TransactionException("ERROR INSIDE THE GET ALL TRANSACTION DAO");
 		}
-		
-		return null;
 	}
 
 	@Override
-	public Transaction newTransaction(Transaction transaction) throws TransactionException {
+	public void newTransaction(Transaction transaction) throws TransactionException {
 		try {
-			String sql = "INSERT INTO \"BankProject\".\"transaction\"\r\n"
-					+ "(accountnumber, id, previousamount, newamount, transactionamount, \"date\")\r\n"
-					+ "VALUES('?', (select count(id)+1 from \"transaction\"), ?, ?, ?, '?');";
+			String sql = "INSERT INTO \"BankProject\".\"transaction\" (accountnumber, previousamount, newamount, transactionamount, \"date\") VALUES(?, (select count(id)+1 from \"BankProject\".\"transaction\"), ?, ?, ?, ?);";
 			Connection connection = PostresqlConnection.getConnection();
 			PreparedStatement preparedStatement = connection.prepareStatement(sql);
 			preparedStatement.setString(1, transaction.getAccountNumber());
@@ -85,17 +86,22 @@ public class TransactionDAOImpl implements TransactionDAO {
 			preparedStatement.setFloat(3, Float.parseFloat(transaction.getNewAmount()+""));
 			preparedStatement.setFloat(4, Float.parseFloat(transaction.getTransactionAmount()+""));
 			preparedStatement.setDate(5, transaction.getDateOf());
-			if(preparedStatement.executeUpdate(sql)!=0) {
+			if(preparedStatement.executeUpdate()!=0) {
 				log.info("Transaction successfully added");
 			}
 			else {
-				log.info("Transaction unsuccessfully added");
+				throw new TransactionException("Transaction unsuccessfully added");
 			}
 			
 		}catch (ClassNotFoundException| SQLException e){
 			
+			log.trace(e);
+			throw new TransactionException("ERROR INSERTING TRANSACTION");
 		}
-		return null;
+	}
+	@Override
+	public void newTransfer(String accountNumber) throws TransactionException {
+		
 	}
 
 

@@ -508,3 +508,1912 @@ date created: 2021-01-10	2021-01-11 00:30:27,189
 {INFO}  com.bank.main.BankMain	3) View log of all transactions	2021-01-11 00:30:27,191
 {INFO}  com.bank.main.BankMain	4) Exit	2021-01-11 00:30:27,191
 {INFO}  com.bank.main.BankMain	Have a good day.	2021-01-11 00:30:38,968
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-11 14:03:28,769
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-11 14:03:28,772
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-11 14:03:28,772
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-11 14:03:28,772
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-11 14:03:28,772
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-11 14:03:30,291
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-11 14:03:30,291
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-11 14:03:30,291
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-11 14:03:30,291
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-11 14:03:30,292
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-11 14:03:30,292
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-11 14:03:30,292
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-11 14:03:30,292
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-11 14:03:30,292
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-11 14:03:30,292
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-11 14:03:30,292
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-11 14:03:30,292
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-11 14:03:30,292
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-11 14:03:30,292
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-11 14:03:30,292
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-11 14:03:30,292
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-11 14:03:30,292
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-11 14:03:30,292
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-11 14:03:30,292
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-11 14:03:30,292
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-11 14:03:30,292
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-11 14:03:30,292
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-11 14:03:30,292
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-11 14:03:30,292
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-11 14:03:30,293
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-11 14:03:30,293
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-11 14:03:30,293
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-11 14:03:30,293
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-11 14:03:30,293
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-11 14:03:30,293
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-11 14:03:30,293
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-11 14:03:30,293
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-11 14:03:30,293
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-11 14:03:30,293
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-11 14:03:30,293
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-11 14:03:30,293
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-11 14:03:30,293
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-11 14:03:30,293
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-11 14:03:30,293
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-11 14:03:30,293
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-11 14:03:30,293
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-11 14:03:30,293
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-11 14:03:30,293
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-11 14:03:30,293
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-11 14:03:30,293
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-11 14:03:30,294
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-11 14:03:30,294
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-11 14:03:30,294
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-11 14:03:30,294
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-11 14:03:30,294
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-11 14:03:30,294
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-11 14:03:30,294
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-11 14:03:30,294
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-11 14:03:30,295
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-11 14:03:30,295
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-11 14:03:30,295
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-11 14:03:30,295
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-11 14:03:30,295
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-11 14:03:30,295
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-11 14:03:30,295
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-11 14:03:30,295
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-11 14:03:30,295
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-11 14:03:30,295
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-11 14:03:30,295
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-11 14:03:30,295
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-11 14:03:30,296
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-11 14:03:30,296
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-11 14:03:30,296
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-11 14:03:30,296
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-11 14:03:30,296
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-11 14:03:30,296
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-11 14:03:30,296
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-11 14:03:30,296
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-11 14:03:30,296
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-11 14:03:30,296
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-11 14:03:30,296
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-11 14:03:30,296
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-11 14:03:30,296
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-11 14:03:30,297
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-11 14:03:30,297
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-11 14:03:30,297
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-11 14:03:30,297
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-11 14:03:30,297
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-11 14:03:30,297
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-11 14:03:30,297
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-11 14:03:30,297
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-11 14:03:30,297
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-11 14:03:30,297
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-11 14:03:30,297
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-11 14:03:30,297
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-11 14:03:30,297
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-11 14:03:30,297
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-11 14:03:30,297
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-11 14:03:30,297
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-11 14:03:30,298
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-11 14:03:30,298
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-11 14:03:30,298
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-11 14:03:30,298
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-11 14:03:30,298
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-11 14:03:30,298
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-11 14:03:30,298
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-11 14:03:30,298
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-11 14:03:30,298
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-11 14:03:30,298
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-11 14:03:30,298
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-11 14:03:30,298
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-11 14:03:30,298
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-11 14:03:30,298
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-11 14:03:30,298
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-11 14:03:30,299
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-11 14:03:30,299
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-11 14:03:30,299
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-11 14:03:30,299
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-11 14:03:30,299
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-11 14:03:30,299
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-11 14:03:30,299
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-11 14:03:30,299
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-11 14:03:30,300
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-11 14:03:30,300
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-11 14:03:30,300
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-11 14:03:30,300
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-11 14:03:30,300
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-11 14:03:30,300
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-11 14:03:30,300
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-11 14:03:30,300
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-11 14:03:30,300
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-11 14:03:30,300
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-11 14:03:30,300
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-11 14:03:30,301
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-11 14:03:30,301
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-11 14:03:30,301
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-11 14:03:30,301
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-11 14:03:30,301
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-11 14:03:30,301
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-11 14:03:30,301
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-11 14:03:30,301
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-11 14:03:30,301
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-11 14:03:30,301
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-11 14:03:30,301
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-11 14:03:30,301
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-11 14:03:30,302
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-11 14:03:30,302
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-11 14:03:30,302
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-11 14:03:30,302
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-11 14:03:30,302
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-11 14:03:30,302
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-11 14:03:30,302
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-11 14:03:30,302
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-11 14:03:30,302
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-11 14:03:30,302
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-11 14:03:30,302
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-11 14:03:30,302
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-11 14:03:30,302
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-11 14:03:30,302
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-11 14:03:30,302
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-11 14:03:30,303
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-11 14:03:30,303
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-11 14:03:30,303
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-11 14:03:30,303
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-11 14:03:30,303
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-11 14:03:30,303
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-11 14:03:30,303
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-11 14:03:30,303
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-11 14:03:30,303
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-11 14:03:30,303
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-11 14:03:30,303
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-11 14:03:30,303
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-11 14:03:30,303
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-11 14:03:30,303
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-11 14:03:30,303
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-11 14:03:30,303
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-11 14:03:30,304
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-11 14:03:30,304
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-11 14:03:30,304
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-11 14:03:30,304
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-11 14:03:30,304
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-11 14:03:30,304
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-11 14:03:30,304
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-11 14:03:30,304
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-11 14:03:30,304
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-11 14:03:30,304
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-11 14:03:30,304
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-11 14:03:30,304
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-11 14:03:30,304
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-11 14:03:30,304
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-11 14:03:30,304
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-11 14:03:30,304
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-11 14:03:30,305
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-11 14:03:30,305
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-11 14:03:30,305
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-11 14:03:30,305
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-11 14:03:30,305
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-11 14:03:30,305
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-11 14:03:30,305
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-11 14:03:30,305
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-11 14:03:30,305
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-11 14:03:30,305
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-11 14:03:30,305
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-11 14:03:30,305
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-11 14:03:30,305
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-11 14:03:30,305
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-11 14:03:30,305
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-11 14:03:30,305
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-11 14:03:30,306
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-11 14:03:30,306
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-11 14:03:30,306
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-11 14:03:30,306
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-11 14:03:30,306
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-11 14:03:30,306
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-11 14:03:30,306
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-11 14:03:30,306
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-11 14:03:30,306
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-11 14:03:30,306
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-11 14:03:30,306
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-11 14:03:30,306
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-11 14:03:30,306
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-11 14:03:30,306
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-11 14:03:30,306
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-11 14:03:30,306
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-11 14:03:30,306
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-11 14:03:30,307
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-11 14:03:30,307
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-11 14:03:30,307
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-11 14:03:30,307
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-11 14:03:30,307
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-11 14:03:30,307
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-11 14:03:30,307
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-11 14:03:30,307
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-11 14:03:30,307
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-11 14:03:30,307
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-11 14:03:30,307
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-11 14:03:30,307
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-11 14:03:30,307
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-11 14:03:30,307
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-11 14:03:30,307
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-11 14:03:30,307
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-11 14:03:30,307
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-11 14:03:30,307
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-11 14:03:30,307
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-11 14:03:30,308
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-11 14:03:30,308
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-11 14:03:30,308
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-11 14:03:30,308
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-11 14:03:30,308
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-11 14:03:30,308
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-11 14:03:30,308
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-11 14:03:30,308
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-11 14:03:30,309
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-11 14:03:30,309
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-11 14:03:30,309
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-11 14:03:30,309
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-11 14:03:30,309
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-11 14:03:30,309
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-11 14:03:30,309
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-11 14:03:30,309
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-11 14:03:30,309
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-11 14:03:30,309
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-11 14:03:30,309
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-11 14:03:30,310
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-11 14:03:30,310
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-11 14:03:30,310
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-11 14:03:30,310
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-11 14:03:30,310
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-11 14:03:30,310
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-11 14:03:30,310
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-11 14:03:30,310
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-11 14:03:30,310
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-11 14:03:30,310
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-11 14:03:30,310
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-11 14:03:30,310
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-11 14:03:30,310
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-11 14:03:30,310
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-11 14:03:30,310
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-11 14:03:30,310
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-11 14:03:30,310
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-11 14:03:30,310
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-11 14:03:30,310
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-11 14:03:30,311
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-11 14:03:30,311
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-11 14:03:30,311
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-11 14:03:30,311
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-11 14:03:30,311
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-11 14:03:30,311
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-11 14:03:30,311
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-11 14:03:30,311
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-11 14:03:30,311
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-11 14:03:30,311
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-11 14:03:30,311
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-11 14:03:30,311
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-11 14:03:30,311
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-11 14:03:30,311
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-11 14:03:30,311
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-11 14:03:30,311
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-11 14:03:30,311
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-11 14:03:30,311
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-11 14:03:30,311
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-11 14:03:30,312
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-11 14:03:30,312
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-11 14:03:30,312
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-11 14:03:30,312
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-11 14:03:30,312
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-11 14:03:30,312
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-11 14:03:30,312
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-11 14:03:30,312
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-11 14:03:30,312
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-11 14:03:30,312
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-11 14:03:30,312
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-11 14:03:30,312
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-11 14:03:30,312
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-11 14:03:30,312
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-11 14:03:30,312
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-11 14:03:30,312
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-11 14:03:30,312
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-11 14:03:30,312
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-11 14:03:30,313
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-11 14:03:30,313
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-11 14:03:30,313
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-11 14:03:30,313
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-11 14:03:30,313
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-11 14:03:30,313
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-11 14:03:30,313
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-11 14:03:30,313
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-11 14:03:30,313
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-11 14:03:30,313
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-11 14:03:30,313
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-11 14:03:30,313
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-11 14:03:30,313
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-11 14:03:30,313
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-11 14:03:30,313
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-11 14:03:30,313
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-11 14:03:30,313
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-11 14:03:30,314
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-11 14:03:30,314
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-11 14:03:30,314
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-11 14:03:30,314
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-11 14:03:30,314
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-11 14:03:30,314
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-11 14:03:30,314
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-11 14:03:30,314
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-11 14:03:30,314
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-11 14:03:30,314
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-11 14:03:30,314
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-11 14:03:30,314
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-11 14:03:30,314
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-11 14:03:30,314
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-11 14:03:30,314
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-11 14:03:30,314
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-11 14:03:30,314
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-11 14:03:30,314
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-11 14:03:30,315
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-11 14:03:30,315
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-11 14:03:30,315
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-11 14:03:30,315
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-11 14:03:30,315
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-11 14:03:30,315
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-11 14:03:30,315
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-11 14:03:30,315
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-11 14:03:30,315
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-11 14:03:30,315
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-11 14:03:30,315
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-11 14:03:30,315
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-11 14:03:30,315
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-11 14:03:30,315
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-11 14:03:30,315
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-11 14:03:30,315
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-11 14:03:30,315
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-11 14:03:30,315
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-11 14:03:30,316
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-11 14:03:30,316
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-11 14:03:30,316
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-11 14:03:30,316
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-11 14:03:30,316
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-11 14:03:30,316
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-11 14:03:30,316
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-11 14:03:30,316
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-11 14:03:30,316
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-11 14:03:30,316
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-11 14:03:30,316
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-11 14:03:30,316
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-11 14:03:30,317
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-11 14:03:30,317
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-11 14:03:30,317
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-11 14:03:30,317
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-11 14:03:30,317
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-11 14:03:30,317
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-11 14:03:30,317
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-11 14:03:30,317
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-11 14:03:30,317
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-11 14:03:30,317
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-11 14:03:30,317
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-11 14:03:30,317
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-11 14:03:30,317
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-11 14:03:30,317
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-11 14:03:30,318
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-11 14:03:30,318
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-11 14:03:30,318
+{DEBUG}  com.bank.service.impl.TransactionServiceImpl	intering updateCount for transactions	2021-01-11 15:46:23,593
+{TRACE}  com.bank.dao.impl.TransactionDAOImpl	ERROR INSIDE COUNT FOR TRANSACTION DAO	2021-01-11 15:46:23,636
+{DEBUG}  com.bank.service.impl.TransactionServiceImpl	intering updateCount for transactions	2021-01-11 15:47:52,609
+{TRACE}  com.bank.dao.impl.TransactionDAOImpl	ERROR INSIDE COUNT FOR TRANSACTION DAO	2021-01-11 15:47:52,724
+{DEBUG}  com.bank.service.impl.TransactionServiceImpl	inserting new Transaction from Service	2021-01-11 15:47:52,725
+{DEBUG}  com.bank.service.impl.TransactionServiceImpl	intering updateCount for transactions	2021-01-11 16:01:53,540
+{TRACE}  com.bank.dao.impl.TransactionDAOImpl	ERROR INSIDE COUNT FOR TRANSACTION DAO	2021-01-11 16:01:53,574
+{DEBUG}  com.bank.service.impl.TransactionServiceImpl	inserting new Transaction from Service	2021-01-11 16:01:53,574
+{DEBUG}  com.bank.service.impl.TransactionServiceImpl	intering updateCount for transactions	2021-01-11 16:03:19,980
+{TRACE}  com.bank.dao.impl.TransactionDAOImpl	ERROR INSIDE COUNT FOR TRANSACTION DAO	2021-01-11 16:03:20,015
+{DEBUG}  com.bank.service.impl.TransactionServiceImpl	inserting new Transaction from Service	2021-01-11 16:03:20,016
+{DEBUG}  com.bank.dao.impl.TransactionDAOImpl	org.postgresql.util.PSQLException: The column index is out of range: 4, number of columns: 3.	2021-01-11 16:03:20,044
+{DEBUG}  com.bank.service.impl.TransactionServiceImpl	intering updateCount for transactions	2021-01-11 16:05:20,951
+{TRACE}  com.bank.dao.impl.TransactionDAOImpl	ERROR INSIDE COUNT FOR TRANSACTION DAO	2021-01-11 16:05:21,086
+{DEBUG}  com.bank.service.impl.TransactionServiceImpl	inserting new Transaction from Service	2021-01-11 16:05:21,086
+{DEBUG}  com.bank.dao.impl.TransactionDAOImpl	org.postgresql.util.PSQLException: The column index is out of range: 4, number of columns: 3.	2021-01-11 16:05:21,116
+{DEBUG}  com.bank.service.impl.TransactionServiceImpl	intering updateCount for transactions	2021-01-11 16:05:47,046
+{TRACE}  com.bank.dao.impl.TransactionDAOImpl	ERROR INSIDE COUNT FOR TRANSACTION DAO	2021-01-11 16:05:59,664
+{DEBUG}  com.bank.service.impl.TransactionServiceImpl	inserting new Transaction from Service	2021-01-11 16:06:11,941
+{DEBUG}  com.bank.dao.impl.TransactionDAOImpl	org.postgresql.util.PSQLException: The column index is out of range: 4, number of columns: 3.	2021-01-11 16:06:13,100
+{DEBUG}  com.bank.service.impl.TransactionServiceImpl	intering updateCount for transactions	2021-01-11 16:06:44,841
+{TRACE}  com.bank.dao.impl.TransactionDAOImpl	ERROR INSIDE COUNT FOR TRANSACTION DAO	2021-01-11 16:06:45,518
+{DEBUG}  com.bank.service.impl.TransactionServiceImpl	inserting new Transaction from Service	2021-01-11 16:06:49,878
+{DEBUG}  com.bank.service.impl.TransactionServiceImpl	intering updateCount for transactions	2021-01-11 16:07:43,567
+{TRACE}  com.bank.dao.impl.TransactionDAOImpl	ERROR INSIDE COUNT FOR TRANSACTION DAO	2021-01-11 16:07:43,679
+{DEBUG}  com.bank.service.impl.TransactionServiceImpl	inserting new Transaction from Service	2021-01-11 16:07:43,680
+{DEBUG}  com.bank.dao.impl.TransactionDAOImpl	org.postgresql.util.PSQLException: Can't use query methods that take a query string on a PreparedStatement.	2021-01-11 16:07:43,712
+{DEBUG}  com.bank.service.impl.TransactionServiceImpl	intering updateCount for transactions	2021-01-11 16:08:11,960
+{TRACE}  com.bank.dao.impl.TransactionDAOImpl	ERROR INSIDE COUNT FOR TRANSACTION DAO	2021-01-11 16:08:12,531
+{DEBUG}  com.bank.service.impl.TransactionServiceImpl	inserting new Transaction from Service	2021-01-11 16:08:19,716
+{DEBUG}  com.bank.dao.impl.TransactionDAOImpl	org.postgresql.util.PSQLException: Can't use query methods that take a query string on a PreparedStatement.	2021-01-11 16:09:14,596
+{DEBUG}  com.bank.service.impl.TransactionServiceImpl	intering updateCount for transactions	2021-01-11 16:11:04,732
+{TRACE}  com.bank.dao.impl.TransactionDAOImpl	ERROR INSIDE COUNT FOR TRANSACTION DAO	2021-01-11 16:11:04,768
+{DEBUG}  com.bank.service.impl.TransactionServiceImpl	inserting new Transaction from Service	2021-01-11 16:11:04,768
+{DEBUG}  com.bank.dao.impl.TransactionDAOImpl	org.postgresql.util.PSQLException: ERROR: relation "transaction" does not exist
+  Position: 151	2021-01-11 16:11:04,801
+{DEBUG}  com.bank.service.impl.TransactionServiceImpl	intering updateCount for transactions	2021-01-11 16:12:26,354
+{TRACE}  com.bank.dao.impl.TransactionDAOImpl	ERROR INSIDE COUNT FOR TRANSACTION DAO	2021-01-11 16:12:26,389
+{DEBUG}  com.bank.service.impl.TransactionServiceImpl	inserting new Transaction from Service	2021-01-11 16:12:26,389
+{DEBUG}  com.bank.dao.impl.TransactionDAOImpl	org.postgresql.util.PSQLException: ERROR: relation "transaction" does not exist
+  Position: 149	2021-01-11 16:12:26,520
+{DEBUG}  com.bank.service.impl.TransactionServiceImpl	intering updateCount for transactions	2021-01-11 16:13:45,486
+{TRACE}  com.bank.dao.impl.TransactionDAOImpl	ERROR INSIDE COUNT FOR TRANSACTION DAO	2021-01-11 16:13:45,594
+{DEBUG}  com.bank.service.impl.TransactionServiceImpl	inserting new Transaction from Service	2021-01-11 16:13:45,595
+{DEBUG}  com.bank.dao.impl.TransactionDAOImpl	error inserting	2021-01-11 16:13:45,631
+{DEBUG}  com.bank.dao.impl.TransactionDAOImpl	org.postgresql.util.PSQLException: ERROR: relation "transaction" does not exist
+  Position: 149	2021-01-11 16:13:45,631
+{DEBUG}  com.bank.service.impl.TransactionServiceImpl	intering updateCount for transactions	2021-01-11 16:14:13,555
+{TRACE}  com.bank.dao.impl.TransactionDAOImpl	ERROR INSIDE COUNT FOR TRANSACTION DAO	2021-01-11 16:14:13,588
+{DEBUG}  com.bank.service.impl.TransactionServiceImpl	inserting new Transaction from Service	2021-01-11 16:14:13,588
+{DEBUG}  com.bank.dao.impl.TransactionDAOImpl	error inserting	2021-01-11 16:14:13,617
+{DEBUG}  com.bank.dao.impl.TransactionDAOImpl	org.postgresql.util.PSQLException: ERROR: relation "transaction" does not exist
+  Position: 149	2021-01-11 16:14:13,617
+{DEBUG}  com.bank.dao.impl.TransactionDAOImpl	all transactions given	2021-01-11 16:16:01,883
+{DEBUG}  com.bank.service.impl.TransactionServiceImpl	intering updateCount for transactions	2021-01-11 16:16:01,887
+{TRACE}  com.bank.dao.impl.TransactionDAOImpl	ERROR INSIDE COUNT FOR TRANSACTION DAO	2021-01-11 16:16:01,921
+{DEBUG}  com.bank.service.impl.TransactionServiceImpl	inserting new Transaction from Service	2021-01-11 16:16:01,921
+{DEBUG}  com.bank.dao.impl.TransactionDAOImpl	error inserting	2021-01-11 16:16:01,952
+{DEBUG}  com.bank.dao.impl.TransactionDAOImpl	org.postgresql.util.PSQLException: ERROR: relation "transaction" does not exist
+  Position: 149	2021-01-11 16:16:01,952
+{DEBUG}  com.bank.dao.impl.TransactionDAOImpl	all transactions given	2021-01-11 16:16:42,766
+{DEBUG}  com.bank.service.impl.TransactionServiceImpl	intering updateCount for transactions	2021-01-11 16:16:42,770
+{TRACE}  com.bank.dao.impl.TransactionDAOImpl	ERROR INSIDE COUNT FOR TRANSACTION DAO	2021-01-11 16:16:42,804
+{DEBUG}  com.bank.service.impl.TransactionServiceImpl	inserting new Transaction from Service	2021-01-11 16:16:42,804
+{DEBUG}  com.bank.dao.impl.TransactionDAOImpl	error inserting	2021-01-11 16:16:42,836
+{DEBUG}  com.bank.dao.impl.TransactionDAOImpl	org.postgresql.util.PSQLException: ERROR: relation "transaction" does not exist
+  Position: 149	2021-01-11 16:16:42,836
+{DEBUG}  com.bank.dao.impl.TransactionDAOImpl	all transactions given	2021-01-11 16:17:13,894
+{DEBUG}  com.bank.service.impl.TransactionServiceImpl	intering updateCount for transactions	2021-01-11 16:17:13,898
+{TRACE}  com.bank.dao.impl.TransactionDAOImpl	ERROR INSIDE COUNT FOR TRANSACTION DAO	2021-01-11 16:17:14,030
+{DEBUG}  com.bank.service.impl.TransactionServiceImpl	inserting new Transaction from Service	2021-01-11 16:17:14,030
+{DEBUG}  com.bank.dao.impl.TransactionDAOImpl	error inserting	2021-01-11 16:17:14,059
+{DEBUG}  com.bank.dao.impl.TransactionDAOImpl	org.postgresql.util.PSQLException: ERROR: relation "transaction" does not exist
+  Position: 149	2021-01-11 16:17:14,060
+{DEBUG}  com.bank.dao.impl.TransactionDAOImpl	all transactions given	2021-01-11 16:18:09,103
+{DEBUG}  com.bank.service.impl.TransactionServiceImpl	intering updateCount for transactions	2021-01-11 16:18:09,106
+{TRACE}  com.bank.dao.impl.TransactionDAOImpl	ERROR INSIDE COUNT FOR TRANSACTION DAO	2021-01-11 16:18:09,140
+{DEBUG}  com.bank.service.impl.TransactionServiceImpl	inserting new Transaction from Service	2021-01-11 16:18:09,140
+{DEBUG}  com.bank.dao.impl.TransactionDAOImpl	error inserting	2021-01-11 16:18:09,173
+{DEBUG}  com.bank.dao.impl.TransactionDAOImpl	org.postgresql.util.PSQLException: ERROR: relation "transaction" does not exist
+  Position: 151	2021-01-11 16:18:09,173
+{DEBUG}  com.bank.dao.impl.TransactionDAOImpl	all transactions given	2021-01-11 16:19:12,977
+{DEBUG}  com.bank.service.impl.TransactionServiceImpl	intering updateCount for transactions	2021-01-11 16:19:12,981
+{TRACE}  com.bank.dao.impl.TransactionDAOImpl	ERROR INSIDE COUNT FOR TRANSACTION DAO	2021-01-11 16:19:13,017
+{DEBUG}  com.bank.service.impl.TransactionServiceImpl	inserting new Transaction from Service	2021-01-11 16:19:13,017
+{DEBUG}  com.bank.dao.impl.TransactionDAOImpl	error inserting	2021-01-11 16:19:13,048
+{DEBUG}  com.bank.dao.impl.TransactionDAOImpl	org.postgresql.util.PSQLException: ERROR: relation "transaction" does not exist
+  Position: 13	2021-01-11 16:19:13,048
+{DEBUG}  com.bank.dao.impl.TransactionDAOImpl	all transactions given	2021-01-11 16:23:18,477
+{DEBUG}  com.bank.dao.impl.TransactionDAOImpl	all transactions given	2021-01-11 16:23:27,800
+{DEBUG}  com.bank.dao.impl.TransactionDAOImpl	all transactions given	2021-01-11 16:23:34,399
+{DEBUG}  com.bank.service.impl.TransactionServiceImpl	intering updateCount for transactions	2021-01-11 16:23:34,403
+{TRACE}  com.bank.dao.impl.TransactionDAOImpl	ERROR INSIDE COUNT FOR TRANSACTION DAO	2021-01-11 16:23:34,440
+{DEBUG}  com.bank.service.impl.TransactionServiceImpl	inserting new Transaction from Service	2021-01-11 16:23:34,440
+{DEBUG}  com.bank.dao.impl.TransactionDAOImpl	error inserting	2021-01-11 16:23:34,470
+{DEBUG}  com.bank.dao.impl.TransactionDAOImpl	org.postgresql.util.PSQLException: The column index is out of range: 1, number of columns: 0.	2021-01-11 16:23:34,470
+{DEBUG}  com.bank.dao.impl.TransactionDAOImpl	all transactions given	2021-01-11 16:24:01,507
+{DEBUG}  com.bank.service.impl.TransactionServiceImpl	intering updateCount for transactions	2021-01-11 16:24:01,511
+{TRACE}  com.bank.dao.impl.TransactionDAOImpl	ERROR INSIDE COUNT FOR TRANSACTION DAO	2021-01-11 16:24:01,547
+{DEBUG}  com.bank.service.impl.TransactionServiceImpl	inserting new Transaction from Service	2021-01-11 16:24:01,548
+{DEBUG}  com.bank.dao.impl.TransactionDAOImpl	error inserting	2021-01-11 16:24:01,581
+{DEBUG}  com.bank.dao.impl.TransactionDAOImpl	org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "transaction_pk"
+  Detail: Key (id)=(3) already exists.	2021-01-11 16:24:01,581
+{DEBUG}  com.bank.dao.impl.TransactionDAOImpl	all transactions given	2021-01-11 16:24:47,776
+{DEBUG}  com.bank.service.impl.TransactionServiceImpl	intering updateCount for transactions	2021-01-11 16:24:47,782
+{TRACE}  com.bank.dao.impl.TransactionDAOImpl	ERROR INSIDE COUNT FOR TRANSACTION DAO	2021-01-11 16:24:47,818
+{DEBUG}  com.bank.service.impl.TransactionServiceImpl	inserting new Transaction from Service	2021-01-11 16:24:47,818
+{INFO}  com.bank.dao.impl.TransactionDAOImpl	Transaction successfully added	2021-01-11 16:24:47,851
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:22:57,211
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:22:57,211
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:22:57,211
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:22:57,211
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:22:57,211
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank please fill out this form and we will get the approval process underway!	2021-01-12 01:22:58,850
+{INFO}  com.bank.main.BankMain	--------------------------------------------------------------------------------------------------------	2021-01-12 01:22:58,850
+{INFO}  com.bank.main.BankMain	Full Name:	2021-01-12 01:22:58,850
+{INFO}  com.bank.main.BankMain	Date Of Birth in yyyy-mm-dd:	2021-01-12 01:23:09,611
+{INFO}  com.bank.main.BankMain	invalid date please try again	2021-01-12 01:23:20,787
+{INFO}  com.bank.main.BankMain	Date Of Birth in yyyy-mm-dd:	2021-01-12 01:23:20,787
+{INFO}  com.bank.main.BankMain	invalid date please try again	2021-01-12 01:23:33,735
+{INFO}  com.bank.main.BankMain	Date Of Birth in yyyy-mm-dd:	2021-01-12 01:23:33,735
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:23:37,784
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:23:37,784
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:23:37,784
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:23:37,784
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:23:37,784
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:23:37,784
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:23:37,785
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:23:37,785
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:23:37,785
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:23:37,785
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:23:37,785
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:23:37,785
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:23:37,785
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:23:37,785
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:23:37,785
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:23:37,785
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:23:37,785
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:23:37,785
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:23:37,785
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:23:37,785
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:23:37,785
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:23:37,785
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:23:37,785
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:23:37,785
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:23:37,785
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:23:37,785
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:23:37,785
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:23:37,785
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:23:37,786
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:23:37,786
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:23:37,786
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:23:37,786
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:23:37,786
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:23:37,787
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:23:37,787
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:23:37,787
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:23:37,787
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:23:37,787
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:23:37,787
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:23:37,787
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:23:37,787
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:23:37,787
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:23:37,787
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:23:37,787
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:23:37,788
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:23:37,788
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:23:37,788
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:23:37,788
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:23:37,788
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:23:37,788
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:23:37,788
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:23:37,788
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:23:37,788
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:23:37,788
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:23:37,789
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:23:37,789
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:23:37,789
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:23:37,789
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:23:37,789
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:23:37,789
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:23:37,789
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:23:37,789
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:23:37,789
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:23:37,789
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:23:37,790
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:23:37,790
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:23:37,790
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:23:37,790
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:23:37,790
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:23:37,790
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:23:37,790
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:23:37,790
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:23:37,790
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:23:37,790
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:23:37,790
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:23:37,790
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:23:37,791
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:23:37,791
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:23:37,791
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:23:37,791
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:23:37,791
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:23:37,791
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:23:37,791
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:23:37,791
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:23:37,791
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:23:37,791
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:23:37,791
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:23:37,792
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:23:37,792
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:23:37,792
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:23:37,792
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:23:37,792
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:23:37,792
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:23:37,792
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:23:37,792
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:23:37,792
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:23:37,792
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:23:37,792
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:23:37,792
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:23:37,793
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:23:37,793
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:23:37,793
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:23:37,793
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:23:37,793
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:23:37,793
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:23:37,793
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:23:37,793
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:23:37,793
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:23:37,793
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:23:37,793
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:23:37,794
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:23:37,794
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:23:37,794
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:23:37,794
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:23:37,794
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:23:37,794
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:23:37,794
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:23:37,794
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:23:37,794
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:23:37,794
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:23:37,794
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:23:37,794
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:23:37,795
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:23:37,795
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:23:37,795
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:23:37,795
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:23:37,795
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:23:37,795
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:23:37,795
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:23:37,795
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:23:37,795
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:23:37,795
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:23:37,795
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:23:37,795
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:23:37,795
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:23:37,795
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:23:37,796
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:23:37,796
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:23:37,796
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:23:37,796
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:23:37,796
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:23:37,796
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:23:37,796
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:23:37,796
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:23:37,796
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:23:37,796
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:23:37,796
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:23:37,796
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:23:37,796
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:23:37,797
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:23:37,797
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:23:37,797
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:23:37,797
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:23:37,797
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:23:37,797
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:23:37,797
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:23:37,797
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:23:37,797
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:23:37,797
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:23:37,797
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:23:37,798
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:23:37,798
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:23:37,798
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:23:37,798
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:23:37,798
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:23:37,798
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:23:37,798
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:23:37,798
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:23:37,798
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:23:37,798
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:23:37,798
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:23:37,799
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:23:37,799
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:23:37,799
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:23:37,799
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:23:37,799
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:23:37,799
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:23:37,799
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:23:37,799
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:23:37,799
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:23:37,799
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:23:37,799
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:23:37,799
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:23:37,799
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:23:37,800
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:23:37,800
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:23:37,800
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:23:37,800
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:23:37,800
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:23:37,800
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:23:37,800
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:23:37,800
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:23:37,800
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:23:37,800
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:23:37,800
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:23:37,800
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:23:37,800
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:23:37,801
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:23:37,801
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:23:37,801
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:23:37,801
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:23:37,801
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:23:37,801
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:23:37,801
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:23:37,801
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:23:37,801
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:23:37,801
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:23:37,801
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:23:37,801
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:23:37,801
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:23:37,801
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:23:37,802
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:23:37,802
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:23:37,802
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:23:37,802
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:23:37,802
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:23:37,802
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:23:37,802
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:23:37,802
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:23:37,802
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:23:37,802
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:23:37,802
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:23:37,802
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:23:37,802
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:23:37,802
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:23:37,802
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:23:37,803
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:23:37,803
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:23:37,803
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:23:37,803
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:23:37,803
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:23:37,803
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:23:37,804
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:23:37,804
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:23:37,804
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:23:37,804
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:23:37,804
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:23:37,804
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:23:37,804
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:23:37,804
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:23:37,804
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:23:37,804
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:23:37,804
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:23:37,805
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:23:37,805
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:23:37,805
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:23:37,805
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:23:37,805
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:23:37,805
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:23:37,805
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:23:37,805
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:23:37,805
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:23:37,805
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:23:37,805
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:23:37,805
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:23:37,805
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:23:37,806
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:23:37,806
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:23:37,806
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:23:37,806
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:23:37,806
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:23:37,806
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:23:37,806
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:23:37,806
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:23:37,806
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:23:37,806
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:23:37,806
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:23:37,806
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:23:37,806
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:23:37,806
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:23:37,807
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:23:37,807
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:23:37,807
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:23:37,807
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:23:37,807
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:23:37,807
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:23:37,807
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:23:37,807
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:23:37,807
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:23:37,807
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:23:37,807
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:23:37,807
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:23:37,808
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:23:37,808
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:23:37,808
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:23:37,808
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:23:37,808
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:23:37,808
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:23:37,808
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:23:37,808
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:23:37,808
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:23:37,808
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:23:37,808
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:23:37,808
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:23:37,808
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:23:37,808
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:23:37,809
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:23:37,809
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:23:37,809
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:23:37,809
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:23:37,809
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:23:37,809
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:23:37,809
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:23:37,809
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:23:37,809
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:23:37,809
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:23:37,809
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:23:37,809
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:23:37,809
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:23:37,810
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:23:37,810
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:23:37,810
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:23:37,810
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:23:37,810
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:23:37,810
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:23:37,810
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:23:37,810
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:23:37,810
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:23:37,810
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:23:37,810
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:23:37,810
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:23:37,810
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:23:37,810
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:23:37,810
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:23:37,811
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:23:37,811
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:23:37,811
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:23:37,811
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:23:37,811
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:23:37,811
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:23:37,811
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:23:37,811
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:23:37,811
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:23:37,811
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:23:37,811
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:23:37,811
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:23:37,811
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:23:37,811
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:23:37,812
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:23:37,812
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:23:37,812
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:23:37,812
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:23:37,812
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:23:37,812
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:23:37,812
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:23:37,812
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:23:37,812
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:23:37,812
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:23:37,812
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:23:37,812
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:24:33,133
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:24:33,134
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:24:33,134
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:24:33,134
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:24:33,134
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank please fill out this form and we will get the approval process underway!	2021-01-12 01:24:34,642
+{INFO}  com.bank.main.BankMain	--------------------------------------------------------------------------------------------------------	2021-01-12 01:24:34,642
+{INFO}  com.bank.main.BankMain	Full Name:	2021-01-12 01:24:34,642
+{INFO}  com.bank.main.BankMain	Date Of Birth in yyyy-mm-dd:	2021-01-12 01:24:40,574
+{INFO}  com.bank.main.BankMain	Date Of Birth in yyyy-mm-dd:	2021-01-12 01:25:03,365
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:25:31,522
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:25:31,522
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:25:31,522
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:25:31,522
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:25:31,522
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:25:31,522
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:25:31,522
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:25:31,522
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:25:31,522
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:25:31,522
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:25:31,522
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:25:31,522
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:25:31,522
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:25:31,523
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:25:31,523
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:25:31,523
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:25:31,523
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:25:31,523
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:25:31,523
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:25:31,523
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:25:31,523
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:25:31,523
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:25:31,523
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:25:31,523
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:25:31,523
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:25:31,523
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:25:31,523
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:25:31,523
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:25:31,523
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:25:31,523
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:25:31,523
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:25:31,523
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:25:31,523
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:25:31,523
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:25:31,523
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:25:31,523
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:25:31,523
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:25:31,524
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:25:31,524
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:25:31,524
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:25:31,524
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:25:31,524
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:25:31,524
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:25:31,524
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:25:31,524
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:25:31,524
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:25:31,524
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:25:31,524
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:25:31,524
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:25:31,524
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:25:31,524
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:25:31,524
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:25:31,524
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:25:31,524
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:25:31,524
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:25:31,524
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:25:31,524
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:25:31,524
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:25:31,524
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:25:31,524
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:25:31,524
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:25:31,525
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:25:31,525
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:25:31,525
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:25:31,525
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:25:31,525
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:25:31,525
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:25:31,525
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:25:31,525
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:25:31,525
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:25:31,525
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:25:31,525
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:25:31,525
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:25:31,525
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:25:31,525
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:25:31,525
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:25:31,525
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:25:31,525
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:25:31,525
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:25:31,525
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:25:31,525
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:25:31,525
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:25:31,525
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:25:31,525
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:25:31,525
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:25:31,526
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:25:31,526
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:25:31,526
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:25:31,526
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:25:31,526
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:25:31,526
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:25:31,526
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:25:31,526
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:25:31,526
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:25:31,526
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:25:31,526
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:25:31,526
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:25:31,526
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:25:31,526
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:25:31,526
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:25:31,526
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:25:31,527
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:25:31,527
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:25:31,527
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:25:31,527
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:25:31,527
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:25:31,527
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:25:31,527
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:25:31,527
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:25:31,527
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:25:31,527
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:25:31,527
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:25:31,527
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:25:31,527
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:25:31,527
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:25:31,527
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:25:31,527
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:25:31,528
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:25:31,528
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:25:31,528
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:25:31,528
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:25:31,528
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:25:31,528
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:25:31,528
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:25:31,528
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:25:31,528
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:25:31,528
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:25:31,528
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:25:31,528
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:25:31,528
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:25:31,528
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:25:31,528
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:25:31,528
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:25:31,529
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:25:31,529
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:25:31,529
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:25:31,529
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:25:31,529
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:25:31,529
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:25:31,529
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:25:31,529
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:25:31,529
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:25:31,529
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:25:31,529
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:25:31,529
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:25:31,529
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:25:31,529
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:25:31,529
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:25:31,529
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:25:31,529
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:25:31,530
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:25:31,530
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:25:31,530
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:25:31,530
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:25:31,530
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:25:31,530
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:25:31,530
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:25:31,530
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:25:31,530
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:25:31,530
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:25:31,530
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:25:31,530
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:25:31,530
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:25:31,530
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:25:31,530
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:25:31,530
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:25:31,530
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:25:31,531
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:25:31,531
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:25:31,531
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:25:31,531
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:25:31,531
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:25:31,531
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:25:31,531
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:25:31,531
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:25:31,531
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:25:31,531
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:25:31,531
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:25:31,531
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:25:31,531
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:25:31,531
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:25:31,531
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:25:31,531
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:25:31,531
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:25:31,532
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:25:31,532
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:25:31,532
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:25:31,532
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:25:31,532
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:25:31,532
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:25:31,532
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:25:31,532
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:25:31,532
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:25:31,532
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:25:31,532
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:25:31,532
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:25:31,532
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:25:31,532
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:25:31,532
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:25:31,532
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:25:31,532
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:25:31,532
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:25:31,533
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:25:31,533
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:25:31,533
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:25:31,533
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:25:31,533
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:25:31,533
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:25:31,533
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:25:31,533
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:25:31,533
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:25:31,533
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:25:31,533
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:25:31,533
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:25:31,533
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:25:31,533
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:25:31,533
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:25:31,533
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:25:31,533
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:25:31,534
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:25:31,534
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:25:31,534
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:25:31,534
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:25:31,534
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:25:31,534
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:25:31,534
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:25:31,534
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:25:31,534
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:25:31,534
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:25:31,534
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:25:31,534
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:25:31,534
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:25:31,534
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:25:31,535
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:25:31,535
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:25:31,535
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:25:31,535
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:25:31,535
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:25:31,535
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:25:31,535
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:25:31,535
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:25:31,535
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:25:31,535
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:25:31,535
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:25:31,535
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:25:31,535
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:25:31,536
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:25:31,536
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:25:31,536
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:25:31,536
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:25:31,536
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:25:31,536
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:25:31,536
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:25:31,536
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:25:31,536
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:25:31,536
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:25:31,536
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:25:31,536
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:25:31,536
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:25:31,536
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:25:31,536
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:25:31,536
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:25:31,536
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:25:31,536
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:25:31,537
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:25:31,537
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:25:31,537
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:25:31,537
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:25:31,537
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:25:31,537
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:25:31,537
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:25:31,537
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:25:31,537
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:25:31,537
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:25:31,537
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:25:31,537
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:25:31,537
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:25:31,537
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:25:31,537
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:25:31,537
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:25:31,537
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:25:31,537
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:25:31,537
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:25:31,537
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:25:31,538
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:25:31,538
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:25:31,538
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:25:31,538
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:25:31,538
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:25:31,538
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:25:31,538
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:25:31,538
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:25:31,538
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:25:31,538
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:25:31,538
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:25:31,538
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:25:31,538
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:25:31,538
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:25:31,538
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:25:31,538
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:25:31,538
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:25:31,538
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:25:31,538
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:25:31,538
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:25:31,538
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:25:31,539
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:25:31,539
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:25:31,539
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:25:31,539
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:25:31,539
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:25:31,539
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:25:31,539
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:25:31,539
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:25:31,539
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:25:31,539
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:25:31,539
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:25:31,539
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:25:31,539
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:25:31,539
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:25:31,539
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:25:31,539
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:25:31,539
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:25:31,539
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:25:31,539
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:25:31,539
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:25:31,540
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:25:31,540
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:25:31,540
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:25:31,540
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:25:31,540
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:25:31,540
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:25:31,540
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:25:31,540
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:25:31,540
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:25:31,540
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:25:31,540
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:25:31,540
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:25:31,540
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:25:31,540
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:25:31,540
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:25:31,540
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:25:31,540
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:25:31,540
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:25:31,540
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:25:31,540
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:25:31,541
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:25:31,541
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:25:31,541
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:25:31,541
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:25:31,541
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:25:31,541
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:25:31,541
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:25:31,541
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:25:31,541
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:25:31,541
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:25:31,541
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:25:31,541
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:25:31,541
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:25:31,541
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:25:31,541
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:25:31,541
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:25:31,541
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:25:31,541
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:25:31,541
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:25:31,541
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:25:31,541
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:25:31,541
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:25:31,542
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:25:31,542
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:25:31,542
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:25:31,542
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:25:31,542
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:25:31,542
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:25:31,542
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:25:31,542
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:25:31,542
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:25:31,542
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:25:31,542
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:25:31,542
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:25:31,542
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:25:31,542
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:25:31,542
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:25:31,542
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:25:31,542
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:25:31,542
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:25:31,542
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:25:31,542
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:25:31,543
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:25:31,543
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:25:31,543
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:25:31,543
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:25:31,543
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:25:31,543
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:25:31,543
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:25:31,543
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:25:31,543
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:25:31,543
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:25:31,543
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:25:31,543
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:25:31,543
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:25:31,543
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:25:31,543
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:25:31,543
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:25:31,543
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:25:31,543
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:25:31,543
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:25:31,543
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:25:31,543
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:25:31,544
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:25:33,192
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:25:33,192
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:25:33,192
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:25:33,193
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:25:33,193
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank please fill out this form and we will get the approval process underway!	2021-01-12 01:25:55,970
+{INFO}  com.bank.main.BankMain	--------------------------------------------------------------------------------------------------------	2021-01-12 01:25:55,970
+{INFO}  com.bank.main.BankMain	Full Name:	2021-01-12 01:25:55,970
+{INFO}  com.bank.main.BankMain	Date Of Birth in yyyy-mm-dd:	2021-01-12 01:25:59,451
+{INFO}  com.bank.main.BankMain	What type of account would you like to open?:	2021-01-12 01:26:06,089
+{INFO}  com.bank.main.BankMain	1)Checkings	2021-01-12 01:26:06,089
+{INFO}  com.bank.main.BankMain	2)Savings	2021-01-12 01:26:06,089
+{INFO}  com.bank.main.BankMain	Please insert cash (type done when done):	2021-01-12 01:26:11,391
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:29:50,344
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:29:50,345
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:29:50,345
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:29:50,345
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:29:50,345
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank please fill out this form and we will get the approval process underway!	2021-01-12 01:29:52,516
+{INFO}  com.bank.main.BankMain	--------------------------------------------------------------------------------------------------------	2021-01-12 01:29:52,516
+{INFO}  com.bank.main.BankMain	Full Name:	2021-01-12 01:29:52,516
+{INFO}  com.bank.main.BankMain	Date Of Birth in yyyy-mm-dd:	2021-01-12 01:29:56,381
+{INFO}  com.bank.main.BankMain	What type of account would you like to open?:	2021-01-12 01:30:02,850
+{INFO}  com.bank.main.BankMain	1)Checkings	2021-01-12 01:30:02,850
+{INFO}  com.bank.main.BankMain	2)Savings	2021-01-12 01:30:02,850
+{INFO}  com.bank.main.BankMain	Please insert cash (type done when done):	2021-01-12 01:30:04,267
+{INFO}  com.bank.main.BankMain	1 has been accepted your new total is 1 please enter more to continue or type done to be done	2021-01-12 01:30:12,904
+{INFO}  com.bank.main.BankMain	5 has been accepted your new total is 6 please enter more to continue or type done to be done	2021-01-12 01:30:33,227
+{INFO}  com.bank.main.BankMain	4 has been accepted your new total is 10 please enter more to continue or type done to be done	2021-01-12 01:30:43,475
+{INFO}  com.bank.main.BankMain	1000 has been accepted your new total is 1010 please enter more to continue or type done to be done	2021-01-12 01:30:48,210
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:33:32,469
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:33:32,470
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:33:32,470
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:33:32,470
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:33:32,470
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank please fill out this form and we will get the approval process underway!	2021-01-12 01:33:34,284
+{INFO}  com.bank.main.BankMain	--------------------------------------------------------------------------------------------------------	2021-01-12 01:33:34,285
+{INFO}  com.bank.main.BankMain	Full Name:	2021-01-12 01:33:34,285
+{INFO}  com.bank.main.BankMain	Date Of Birth in yyyy-mm-dd:	2021-01-12 01:33:38,950
+{INFO}  com.bank.main.BankMain	What type of account would you like to open?:	2021-01-12 01:33:49,850
+{INFO}  com.bank.main.BankMain	1)Checkings	2021-01-12 01:33:49,850
+{INFO}  com.bank.main.BankMain	2)Savings	2021-01-12 01:33:49,850
+{INFO}  com.bank.main.BankMain	Please insert cash (type done when done):	2021-01-12 01:33:52,056
+{INFO}  com.bank.main.BankMain	15 has been accepted your new total is 15 please enter more to continue or type done to be done	2021-01-12 01:33:53,792
+{INFO}  com.bank.main.BankMain	43 has been accepted your new total is 58 please enter more to continue or type done to be done	2021-01-12 01:33:55,024
+{INFO}  com.bank.main.BankMain	21 has been accepted your new total is 79 please enter more to continue or type done to be done	2021-01-12 01:33:56,239
+{DEBUG}  com.bank.dao.impl.CustomerDAOImpl	finding the next accountNumber	2021-01-12 01:33:57,499
+{DEBUG}  com.bank.dao.impl.CustomerDAOImpl	Inserting customer from the DAO	2021-01-12 01:33:57,653
+{DEBUG}  com.bank.service.impl.AccountServiceImpl	inserting account	2021-01-12 01:33:57,681
+{TRACE}  com.bank.dao.impl.AccountDAOImpl	org.postgresql.util.PSQLException: ERROR: null value in column "password" violates not-null constraint
+  Detail: Failing row contains (1003.0, null).	2021-01-12 01:33:57,815
+{INFO}  com.bank.main.BankMain	AN ERROR HAS OCCURED PLEASE SEE A CUSTOMER SERVICE REP	2021-01-12 01:33:57,815
+{DEBUG}  com.bank.main.BankMain	ERROR INSIDE ACCOUNT ADDER DAO	2021-01-12 01:33:57,815
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:33:57,815
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:33:57,815
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:33:57,815
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:33:57,815
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:33:57,815
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:34:40,201
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:34:40,202
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:34:40,202
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:34:40,202
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:34:40,202
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank please fill out this form and we will get the approval process underway!	2021-01-12 01:34:42,122
+{INFO}  com.bank.main.BankMain	--------------------------------------------------------------------------------------------------------	2021-01-12 01:34:42,122
+{INFO}  com.bank.main.BankMain	Full Name:	2021-01-12 01:34:42,122
+{INFO}  com.bank.main.BankMain	Date Of Birth in yyyy-mm-dd:	2021-01-12 01:34:46,885
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:35:40,482
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:35:40,482
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:35:40,482
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:35:40,482
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:35:40,482
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:35:40,482
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:35:40,482
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:35:40,482
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:35:40,482
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:35:40,482
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:35:40,482
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:35:40,482
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:35:40,482
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:35:40,482
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:35:40,482
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:35:40,482
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:35:40,482
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:35:40,482
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:35:40,482
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:35:40,482
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:35:40,483
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:35:40,483
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:35:40,483
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:35:40,483
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:35:40,483
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:35:40,483
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:35:40,483
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:35:40,483
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:35:40,483
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:35:40,483
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:35:40,483
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:35:40,483
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:35:40,483
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:35:40,483
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:35:40,483
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:35:40,483
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:35:40,483
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:35:40,483
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:35:40,483
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:35:40,483
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:35:40,483
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:35:40,483
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:35:40,483
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:35:40,484
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:35:40,484
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:35:40,484
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:35:40,484
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:35:40,484
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:35:40,484
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:35:40,484
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:35:40,484
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:35:40,484
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:35:40,484
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:35:40,484
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:35:40,484
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:35:40,485
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:35:40,485
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:35:40,485
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:35:40,485
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:35:40,485
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:35:40,485
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:35:40,485
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:35:40,485
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:35:40,485
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:35:40,485
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:35:40,485
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:35:40,485
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:35:40,485
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:35:40,485
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:35:40,485
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:35:40,486
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:35:40,486
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:35:40,486
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:35:40,486
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:35:40,486
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:35:40,486
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:35:40,486
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:35:40,486
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:35:40,486
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:35:40,486
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:35:40,486
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:35:40,486
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:35:40,486
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:35:40,486
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:35:40,486
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:35:40,487
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:35:40,487
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:35:40,487
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:35:40,487
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:35:40,487
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:35:40,487
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:35:40,487
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:35:40,487
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:35:40,487
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:35:40,487
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:35:40,487
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:35:40,487
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:35:40,487
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:35:40,487
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:35:40,487
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:35:40,487
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:35:40,487
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:35:40,488
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:35:40,488
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:35:40,488
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:35:40,488
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:35:40,488
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:35:40,488
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:35:40,488
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:35:40,488
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:35:40,488
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:35:40,488
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:35:40,488
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:35:40,488
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:35:40,488
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:35:40,488
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:35:40,488
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:35:40,488
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:35:40,489
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:35:40,489
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:35:40,489
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:35:40,489
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:35:40,489
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:35:40,489
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:35:40,489
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:35:40,489
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:35:40,489
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:35:40,489
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:35:40,489
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:35:40,489
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:35:40,489
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:35:40,489
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:35:40,489
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:35:40,490
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:35:40,490
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:35:40,490
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:35:40,490
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:35:40,490
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:35:40,490
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:35:40,490
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:35:40,490
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:35:40,490
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:35:40,490
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:35:40,490
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:35:40,490
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:35:40,490
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:35:40,490
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:35:40,490
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:35:40,490
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:35:40,490
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:35:40,491
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:35:40,491
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:35:40,491
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:35:40,491
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:35:40,491
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:35:40,491
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:35:40,491
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:35:40,491
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:35:40,491
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:35:40,491
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:35:40,491
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:35:40,491
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:35:40,491
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:35:40,491
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:35:40,491
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:35:40,491
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:35:40,491
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:35:40,492
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:35:40,492
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:35:40,492
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:35:40,492
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:35:40,492
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:35:40,492
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:35:40,492
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:35:40,492
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:35:40,492
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:35:40,492
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:35:40,492
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:35:40,492
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:35:40,492
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:35:40,492
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:35:40,492
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:35:40,492
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:35:40,492
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:35:40,492
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:35:40,493
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:35:40,493
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:35:40,493
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:35:40,493
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:35:40,493
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:35:40,493
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:35:40,493
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:35:40,493
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:35:40,493
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:35:40,493
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:35:40,493
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:35:40,493
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:35:40,493
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:35:40,493
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:35:40,493
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:35:40,493
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:35:40,493
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:35:40,494
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:35:40,494
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:35:40,494
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:35:40,494
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:35:40,494
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:35:40,494
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:35:40,494
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:35:40,494
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:35:40,494
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:35:40,494
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:35:40,494
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:35:40,494
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:35:40,495
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:35:40,495
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:35:40,495
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:35:40,495
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:35:40,495
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:35:40,495
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:35:40,495
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:35:40,495
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:35:40,495
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:35:40,495
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:35:40,495
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:35:40,495
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:35:40,495
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:35:40,495
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:35:40,495
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:35:40,495
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:35:40,495
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:35:40,495
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:35:40,495
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:35:40,496
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:35:40,496
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:35:40,496
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:35:40,496
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:35:40,496
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:35:40,496
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:35:40,496
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:35:40,496
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:35:40,496
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:35:40,496
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:35:40,496
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:35:40,496
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:35:40,496
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:35:40,496
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:35:40,496
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:35:40,496
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:35:40,496
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:35:40,496
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:35:40,496
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:35:40,497
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:35:40,497
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:35:40,497
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:35:40,497
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:35:40,497
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:35:40,497
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:35:40,497
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:35:40,497
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:35:40,497
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:35:40,497
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:35:40,497
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:35:40,497
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:35:40,497
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:35:40,497
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:35:40,497
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:35:40,497
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:35:40,497
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:35:40,497
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:35:40,497
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:35:40,497
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:35:40,497
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:35:40,498
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:35:40,498
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:35:40,498
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:35:40,498
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:35:40,498
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:35:40,498
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:35:40,498
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:35:40,498
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:35:40,498
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:35:40,498
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:35:40,498
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:35:40,498
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:35:40,498
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:35:40,498
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:35:40,498
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:35:40,498
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:35:40,498
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:35:40,498
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:35:40,498
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:35:40,498
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:35:40,498
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:35:40,499
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:35:40,499
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:35:40,499
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:35:40,499
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:35:40,499
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:35:40,499
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:35:40,499
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:35:40,499
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:35:40,499
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:35:40,499
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:35:40,499
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:35:40,499
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:35:40,499
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:35:40,499
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:35:40,499
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:35:40,499
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:35:40,499
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:35:40,499
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:35:40,499
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:35:40,499
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:35:40,499
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:35:40,500
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:35:40,500
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:35:40,500
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:35:40,500
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:35:40,500
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:35:40,500
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:35:40,500
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:35:40,500
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:35:40,500
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:35:40,500
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:35:40,500
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:35:40,500
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:35:40,500
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:35:40,500
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:35:40,500
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:35:40,500
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:35:40,500
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:35:40,501
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:35:40,501
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:35:40,501
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:35:40,501
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:35:40,501
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:35:40,501
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:35:40,501
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:35:40,501
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:35:40,501
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:35:40,501
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:35:40,501
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:35:40,501
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:35:40,501
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:35:40,501
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:35:40,501
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:35:40,501
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:35:40,501
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:35:40,501
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:35:40,501
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:35:40,501
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:35:40,501
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:35:40,501
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:35:40,502
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:35:40,502
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:35:40,502
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:35:40,502
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:35:40,502
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:35:40,502
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:35:40,502
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:35:40,502
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:35:40,502
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:35:40,502
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:35:40,502
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:35:40,502
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:35:40,502
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:35:40,502
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:35:40,503
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:35:40,503
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:35:40,503
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:35:40,503
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:35:40,503
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:35:40,503
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:35:40,503
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:35:40,503
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:35:40,503
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:35:40,503
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:35:40,503
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:35:40,503
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:35:40,503
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:35:40,503
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:35:40,504
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:35:40,504
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:35:40,504
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:35:40,504
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:35:40,504
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:35:40,504
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:35:40,504
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:35:40,504
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:35:40,504
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:35:40,504
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:35:40,504
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:35:42,251
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:35:42,251
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:35:42,251
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:35:42,251
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:35:42,251
+{ERROR}  com.bank.main.BankMain	Invalid input please try again.	2021-01-12 01:36:09,171
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:36:09,171
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:36:09,171
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:36:09,171
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:36:09,172
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:36:09,172
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank please fill out this form and we will get the approval process underway!	2021-01-12 01:36:10,394
+{INFO}  com.bank.main.BankMain	--------------------------------------------------------------------------------------------------------	2021-01-12 01:36:10,394
+{INFO}  com.bank.main.BankMain	Full Name:	2021-01-12 01:36:10,394
+{INFO}  com.bank.main.BankMain	Password:	2021-01-12 01:36:13,375
+{INFO}  com.bank.main.BankMain	Date Of Birth in yyyy-mm-dd:	2021-01-12 01:36:18,018
+{INFO}  com.bank.main.BankMain	What type of account would you like to open?:	2021-01-12 01:36:29,377
+{INFO}  com.bank.main.BankMain	1)Checkings	2021-01-12 01:36:29,377
+{INFO}  com.bank.main.BankMain	2)Savings	2021-01-12 01:36:29,377
+{INFO}  com.bank.main.BankMain	Please insert cash (type done when done):	2021-01-12 01:36:31,279
+{INFO}  com.bank.main.BankMain	564 has been accepted your new total is 564 please enter more to continue or type done to be done	2021-01-12 01:36:34,120
+{DEBUG}  com.bank.dao.impl.CustomerDAOImpl	finding the next accountNumber	2021-01-12 01:36:36,619
+{DEBUG}  com.bank.dao.impl.CustomerDAOImpl	Inserting customer from the DAO	2021-01-12 01:36:36,760
+{DEBUG}  com.bank.service.impl.AccountServiceImpl	inserting account	2021-01-12 01:36:36,886
+{INFO}  com.bank.dao.impl.AccountDAOImpl	Account successfully added	2021-01-12 01:36:36,915
+{INFO}  com.bank.dao.impl.CustomerDAOImpl	Your successfully Registered	2021-01-12 01:36:36,919
+{INFO}  com.bank.main.BankMain	Succefully registered please wait 3-5 business days to be approved	2021-01-12 01:36:36,919
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:37:56,475
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:37:56,475
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:37:56,476
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:37:56,476
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:37:56,476
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank please fill out this form and we will get the approval process underway!	2021-01-12 01:37:58,102
+{INFO}  com.bank.main.BankMain	--------------------------------------------------------------------------------------------------------	2021-01-12 01:37:58,102
+{INFO}  com.bank.main.BankMain	Full Name:	2021-01-12 01:37:58,102
+{INFO}  com.bank.main.BankMain	Password:	2021-01-12 01:38:03,223
+{INFO}  com.bank.main.BankMain	Date Of Birth in yyyy-mm-dd:	2021-01-12 01:38:05,618
+{INFO}  com.bank.main.BankMain	invalid date please try again	2021-01-12 01:38:15,985
+{INFO}  com.bank.main.BankMain	Date Of Birth in yyyy-mm-dd:	2021-01-12 01:38:15,986
+{INFO}  com.bank.main.BankMain	What type of account would you like to open?:	2021-01-12 01:38:27,489
+{INFO}  com.bank.main.BankMain	1)Checkings	2021-01-12 01:38:27,489
+{INFO}  com.bank.main.BankMain	2)Savings	2021-01-12 01:38:27,489
+{INFO}  com.bank.main.BankMain	Please insert cash (type done when done):	2021-01-12 01:38:29,508
+{INFO}  com.bank.main.BankMain	4 has been accepted your new total is 4 please enter more to continue or type done to be done	2021-01-12 01:38:31,741
+{INFO}  com.bank.main.BankMain	6 has been accepted your new total is 10 please enter more to continue or type done to be done	2021-01-12 01:38:32,475
+{DEBUG}  com.bank.dao.impl.CustomerDAOImpl	finding the next accountNumber	2021-01-12 01:38:33,650
+{DEBUG}  com.bank.dao.impl.CustomerDAOImpl	Inserting customer from the DAO	2021-01-12 01:38:33,791
+{DEBUG}  com.bank.service.impl.AccountServiceImpl	inserting account	2021-01-12 01:38:33,817
+{INFO}  com.bank.dao.impl.AccountDAOImpl	Account successfully added	2021-01-12 01:38:33,847
+{INFO}  com.bank.dao.impl.CustomerDAOImpl	Your successfully Registered	2021-01-12 01:38:33,851
+{INFO}  com.bank.main.BankMain	Succefully registered please wait 3-5 business days to be approved	2021-01-12 01:38:33,851
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:44:37,694
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:44:37,695
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:44:37,695
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:44:37,695
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:44:37,695
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank please fill out this form and we will get the approval process underway!	2021-01-12 01:44:39,649
+{INFO}  com.bank.main.BankMain	--------------------------------------------------------------------------------------------------------	2021-01-12 01:44:39,649
+{INFO}  com.bank.main.BankMain	Full Name:	2021-01-12 01:44:39,649
+{INFO}  com.bank.main.BankMain	Password:	2021-01-12 01:44:46,114
+{INFO}  com.bank.main.BankMain	Date Of Birth in yyyy-mm-dd:	2021-01-12 01:44:48,792
+{INFO}  com.bank.main.BankMain	What type of account would you like to open?:	2021-01-12 01:44:58,377
+{INFO}  com.bank.main.BankMain	1)Checkings	2021-01-12 01:44:58,377
+{INFO}  com.bank.main.BankMain	2)Savings	2021-01-12 01:44:58,377
+{INFO}  com.bank.main.BankMain	Please insert cash (type done when done):	2021-01-12 01:44:59,580
+{INFO}  com.bank.main.BankMain	564 has been accepted your new total is 564 please enter more to continue or type done to be done	2021-01-12 01:45:01,395
+{INFO}  com.bank.main.BankMain	231 has been accepted your new total is 795 please enter more to continue or type done to be done	2021-01-12 01:45:02,637
+{DEBUG}  com.bank.dao.impl.CustomerDAOImpl	finding the next accountNumber	2021-01-12 01:45:04,331
+{DEBUG}  com.bank.dao.impl.CustomerDAOImpl	Inserting customer from the DAO	2021-01-12 01:45:04,470
+{DEBUG}  com.bank.service.impl.AccountServiceImpl	inserting account	2021-01-12 01:45:04,496
+{INFO}  com.bank.dao.impl.AccountDAOImpl	Account successfully added	2021-01-12 01:45:04,524
+{INFO}  com.bank.dao.impl.CustomerDAOImpl	Your successfully Registered	2021-01-12 01:45:04,528
+{INFO}  com.bank.main.BankMain	Succefully registered please wait 3-5 business days to be approved	2021-01-12 01:45:04,528
+{INFO}  com.bank.main.BankMain	Welcome to Downs and Downs bank!	2021-01-12 01:55:11,280
+{INFO}  com.bank.main.BankMain	-----------------------------------	2021-01-12 01:55:11,281
+{INFO}  com.bank.main.BankMain	What would you like to do?	2021-01-12 01:55:11,281
+{INFO}  com.bank.main.BankMain	1)Login	2021-01-12 01:55:11,281
+{INFO}  com.bank.main.BankMain	2)Register	2021-01-12 01:55:11,281
+{INFO}  com.bank.main.BankMain	Please input your account number and password	2021-01-12 01:55:12,479
+{INFO}  com.bank.main.BankMain	Account number:	2021-01-12 01:55:12,479
+{INFO}  com.bank.main.BankMain	Password:	2021-01-12 01:55:14,807
+{DEBUG}  com.bank.service.impl.AccountServiceImpl	AccountSearchService within getAccountNumber with accountNumber = 1	2021-01-12 01:55:16,700
+{DEBUG}  com.bank.dao.impl.AccountDAOImpl	Query Excecuted	2021-01-12 01:55:16,848
+{DEBUG}  com.bank.dao.impl.AccountDAOImpl	If in DAO	2021-01-12 01:55:16,848
+{DEBUG}  com.bank.service.impl.EmployeeServiceImpl	Inside the employee service searcher by account number = 1	2021-01-12 01:55:16,849
+{DEBUG}  com.bank.dao.impl.EmployeeDAOImpl	Query Excecuted	2021-01-12 01:55:16,877
+{DEBUG}  com.bank.dao.impl.EmployeeDAOImpl	If in DAO	2021-01-12 01:55:16,877
+{INFO}  com.bank.main.BankMain	
+Welome back Christian Downs	2021-01-12 01:55:16,879
+{INFO}  com.bank.main.BankMain	What task would you like to do?	2021-01-12 01:55:16,879
+{INFO}  com.bank.main.BankMain	1) Review unapproved customers	2021-01-12 01:55:16,879
+{INFO}  com.bank.main.BankMain	2) Find a customer by account number	2021-01-12 01:55:16,879
+{INFO}  com.bank.main.BankMain	3) View log of all transactions	2021-01-12 01:55:16,879
+{INFO}  com.bank.main.BankMain	4) Exit	2021-01-12 01:55:16,879
+{DEBUG}  com.bank.main.BankMain	Showing All Transactions	2021-01-12 01:55:22,599
+{DEBUG}  com.bank.dao.impl.TransactionDAOImpl	all transactions given	2021-01-12 01:55:22,628
+{INFO}  com.bank.main.BankMain	id: 1
+account number: 1001
+previous amount: 15.0
+new amount: 14.0
+transaction amount: -1.0
+date created: 2021-01-10	2021-01-12 01:55:22,628
+{INFO}  com.bank.main.BankMain	id: 2
+account number: 1001
+previous amount: 14.0
+new amount: 13.0
+transaction amount: -1.0
+date created: 2020-08-15	2021-01-12 01:55:22,629
+{INFO}  com.bank.main.BankMain	id: 3
+account number: 1002
+previous amount: 13.0
+new amount: 10.0
+transaction amount: -3.0
+date created: 2020-04-20	2021-01-12 01:55:22,629
+{INFO}  com.bank.main.BankMain	id: 4
+account number: 1002
+previous amount: 15.0
+new amount: 14.0
+transaction amount: -1.0
+date created: 2021-01-10	2021-01-12 01:55:22,629
+{INFO}  com.bank.main.BankMain	What task would you like to do?	2021-01-12 01:55:22,629
+{INFO}  com.bank.main.BankMain	1) Review unapproved customers	2021-01-12 01:55:22,629
+{INFO}  com.bank.main.BankMain	2) Find a customer by account number	2021-01-12 01:55:22,629
+{INFO}  com.bank.main.BankMain	3) View log of all transactions	2021-01-12 01:55:22,629
+{INFO}  com.bank.main.BankMain	4) Exit	2021-01-12 01:55:22,629
+{DEBUG}  com.bank.main.BankMain	Starting to display customer that is found by accountNumber	2021-01-12 01:55:27,913
+{INFO}  com.bank.main.BankMain	Please enter the account number you would like to find	2021-01-12 01:55:27,913
+{DEBUG}  com.bank.dao.impl.CustomerDAOImpl	starting the DAO search	2021-01-12 01:55:31,599
+{INFO}  com.bank.main.BankMain	
+Customer name: Jill
+Account Number: 1001
+Date Of Birth: 1987-08-20
+Type of Account: Checkings
+Amount in Account: $7.05
+Approval Status: TRUE	2021-01-12 01:55:31,638
+{INFO}  com.bank.main.BankMain	What would you like to do?
+1) Change approval status.
+2) View past transactions.
+3) Transfer money to another account.
+4) Exit Profile	2021-01-12 01:55:31,639
+{INFO}  com.bank.main.BankMain	
+Customer name: Jill
+Account Number: 1001
+Date Of Birth: 1987-08-20
+Type of Account: Checkings
+Amount in Account: $7.05
+Approval Status: TRUE	2021-01-12 01:55:36,531
+{INFO}  com.bank.main.BankMain	What would you like to do?
+1) Change approval status.
+2) View past transactions.
+3) Transfer money to another account.
+4) Exit Profile	2021-01-12 01:55:36,531
+{INFO}  com.bank.main.BankMain	What task would you like to do?	2021-01-12 01:56:06,138
+{INFO}  com.bank.main.BankMain	1) Review unapproved customers	2021-01-12 01:56:06,138
+{INFO}  com.bank.main.BankMain	2) Find a customer by account number	2021-01-12 01:56:06,138
+{INFO}  com.bank.main.BankMain	3) View log of all transactions	2021-01-12 01:56:06,138
+{INFO}  com.bank.main.BankMain	4) Exit	2021-01-12 01:56:06,138
+{INFO}  com.bank.main.BankMain	Have a good day.	2021-01-12 01:56:07,686

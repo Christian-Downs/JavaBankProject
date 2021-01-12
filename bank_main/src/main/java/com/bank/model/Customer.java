@@ -22,6 +22,9 @@ public class Customer extends Account{
 		this.approved = approved;
 	}
 	
+	public Customer() {
+	}
+
 	public String toString() {
 		return ("\nCustomer name: " + name+ "\nAccount Number: " + accountNumber +"\nDate Of Birth: " + dateOfBirth+ "\nType of Account: " + type+ "\nAmount in Account: " + NumberFormat.getCurrencyInstance().format(amount));
 	}

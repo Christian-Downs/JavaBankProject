@@ -2,7 +2,7 @@ package com.bank.model;
 
 import java.sql.Date;
 
-public class Employee{
+public class Employee extends Account{
 	private String accountNumber;
 	private String type;
 	private String name;

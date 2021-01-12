@@ -36,4 +36,15 @@ public class CustomerServiceImpl implements CustomerService{
 		customerDAO.approveCustomer(customer);
 	}
 
+	@Override
+	public void insertCustomer(Customer customer) throws CustomerException {
+		customerDAO.insertCustomer(customer);
+		
+	}
+
+	@Override
+	public String makeAccountNumber() throws CustomerException {
+		return customerDAO.makeAccountNumber();
+	}
+
 }

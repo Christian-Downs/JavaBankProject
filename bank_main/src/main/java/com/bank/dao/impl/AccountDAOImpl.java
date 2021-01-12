@@ -93,5 +93,52 @@ public class AccountDAOImpl implements AccountDAO{
 		}
 		
 	}
+
+	@Override
+	public void insertAccount(Account account) throws AccountException {
+		
+			Connection connection;
+			try {
+				connection = PostresqlConnection.getConnection();
+				String sql = "INSERT INTO \"BankProject\".account (number,password) VALUES(?,?);";
+				PreparedStatement preparedStatement = connection.prepareStatement(sql);
+				preparedStatement.setString(1, account.getAccountNumber());
+				preparedStatement.setString(2, account.getPassword());
+				if(preparedStatement.executeUpdate()!=0) {
+					log.info("Account successfully added");
+				}
+				else {
+					throw new AccountException("Account unsuccessfully added");
+				}
+			} catch (ClassNotFoundException | SQLException e) {
+				// TODO Auto-generated catch block
+				log.trace(e);
+				throw new AccountException("ERROR INSIDE ACCOUNT ADDER DAO");
+			}
+			
+
+		
+	}
+
+	@Override
+	public boolean doesAccountExists(String accountNumber) throws AccountException {
+		try {
+			Connection connection = PostresqlConnection.getConnection();
+			String sql = "select COUNT(number) from \"BankProject\".account where number =?";
+			PreparedStatement preparedStatement = connection.prepareStatement(sql);
+			preparedStatement.setString(1, accountNumber);
+			ResultSet resultSet = preparedStatement.executeQuery();
+			while(resultSet.next())
+				if(resultSet.getInt("count")>0)
+					return true;
+				else
+					return false;
+			return false;
+		} catch (ClassNotFoundException | SQLException e) {
+			// TODO Auto-generated catch block
+			log.trace(e.getMessage());
+			throw new AccountException("ERROR INSIDE THE DOES ACCOUNT EXIST METHOD");
+		}
+	}
 	
 }
