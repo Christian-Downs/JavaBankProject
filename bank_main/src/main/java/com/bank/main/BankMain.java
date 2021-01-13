@@ -5,22 +5,15 @@ import java.sql.Date;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.time.LocalDate;
-import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
-import java.util.stream.Collectors;
 
 import org.apache.log4j.Logger;
-import org.apache.log4j.chainsaw.Main;
 
 import com.bank.model.*;
 import com.bank.service.*;
 import com.bank.service.impl.*;
 
-import jdk.internal.org.jline.utils.Log;
-
-import com.bank.dao.AccountDAO;
-import com.bank.dao.impl.*;
 import com.bank.exception.CustomerException;
 import com.bank.exception.TransactionException;
 import com.bank.exception.TransferException;
@@ -422,6 +415,10 @@ public class BankMain{
 				}
 				if(customer.getAmount()<tempCashToRemove) {
 					log.info("Not enough money in the account to withdraw that amount.");
+					tempCashToRemove = 0;
+					break;
+				} else if(tempCashToRemove<0) {
+					log.info("If you'ld like to put money into your account you'll need to do a deposit.");
 					tempCashToRemove = 0;
 					break;
 				}

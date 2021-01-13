@@ -1,6 +1,5 @@
 package com.bank.dao.impl;
 
-import java.sql.CallableStatement;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
@@ -19,7 +18,7 @@ import com.bank.model.Customer;
 import com.bank.service.AccountService;
 import com.bank.service.impl.AccountServiceImpl;
 
-import jdk.internal.net.http.common.Log;
+
 
 public class CustomerDAOImpl implements CustomerDAO{
 	private static Logger log = Logger.getLogger(CustomerDAOImpl.class);

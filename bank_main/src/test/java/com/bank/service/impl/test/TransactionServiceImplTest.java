@@ -32,25 +32,28 @@ class TransactionServiceImplTest {
 		
 	}
 
-//	@Test
-//	void testGetAllTransactions()/*doesn't apply anymore*/ {
-//		List<Transaction> transactions = new ArrayList();
-//		transactions.add(new Transaction("1001",1,15,14,-1,Date.valueOf("2021-01-10"),"withdraw"));
-//		transactions.add(new Transaction("1001",2,14,13,-1,Date.valueOf("2020-08-15"),"withdraw"));
-//		transactions.add(new Transaction("1002",3,13,10,-3,Date.valueOf("2020-04-20"),"withdraw"));
-//		try {
-//			List<Transaction> testTransactions = transactionServiceImpl.getAllTransactions();
-//			for(int i =0; i<transactions.size();i++) {
-//				assertEquals(transactions.get(i).getAccountNumber(),testTransactions.get(i).getAccountNumber());
-//				assertEquals(transactions.get(i).getDateOf(),testTransactions.get(i).getDateOf());
-//				assertEquals(transactions.get(i).getId(),testTransactions.get(i).getId());
-//				assertEquals(transactions.get(i).getNewAmount(),testTransactions.get(i).getNewAmount());
-//				assertEquals(transactions.get(i).getPreviousAmount(),testTransactions.get(i).getPreviousAmount());
-//			}
-//		} catch (TransactionException e) {
-//
-//		}
-//	}
+	@Test
+	void testGetAllTransactions()/*doesn't apply anymore*/ {
+		List<Transaction> transactions = new ArrayList();
+		
+		
+		transactions.add(new Transaction("1002",3,13,10,-3,Date.valueOf("2020-04-20"),"withdraw"));
+		transactions.add(new Transaction("1002",4,15,14,-1,Date.valueOf("2021-01-10"),"withdraw"));
+		transactions.add(new Transaction("1001",8,15,14,-1,Date.valueOf("2021-01-10"),"withdraw"));
+		transactions.add(new Transaction("1001",9,169,240,71,Date.valueOf("2021-01-12"),"deposit"));
+		try {
+			List<Transaction> testTransactions = transactionServiceImpl.getAllTransactions();
+			for(int i =0; i<transactions.size();i++) {
+				assertEquals(transactions.get(i).getAccountNumber(),testTransactions.get(i).getAccountNumber());
+				assertEquals(transactions.get(i).getDateOf(),testTransactions.get(i).getDateOf());
+				assertEquals(transactions.get(i).getId(),testTransactions.get(i).getId());
+				assertEquals(transactions.get(i).getNewAmount(),testTransactions.get(i).getNewAmount());
+				assertEquals(transactions.get(i).getPreviousAmount(),testTransactions.get(i).getPreviousAmount());
+			}
+		} catch (TransactionException e) {
+
+		}
+	}
 //	Commented out because creates a transaction each time
 //	@Test
 //	void testNewTransaction() throws TransactionException {

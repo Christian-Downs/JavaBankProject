@@ -1,7 +1,6 @@
 package com.bank.model;
 
 import java.sql.Date;
-import java.text.SimpleDateFormat;
 
 import com.bank.exception.TransactionException;
 

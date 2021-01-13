@@ -14,8 +14,6 @@ import com.bank.dao.dbutil.PostresqlConnection;
 import com.bank.exception.AccountException;
 import com.bank.model.Account;
 
-import jdk.internal.org.jline.utils.Log;
-
 public class AccountDAOImpl implements AccountDAO{
 	private static Logger log = Logger.getLogger(AccountDAOImpl.class);
 	@Override
@@ -70,7 +68,7 @@ public class AccountDAOImpl implements AccountDAO{
 			}
 			
 		} catch(ClassNotFoundException | SQLException e) {
-			Log.trace(e.getMessage());
+			log.trace(e.getMessage());
 			throw new AccountException("Internal error occured");
 		}
 		return accountList;

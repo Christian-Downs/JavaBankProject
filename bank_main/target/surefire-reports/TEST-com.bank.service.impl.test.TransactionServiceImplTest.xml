@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.bank.service.impl.test.TransactionServiceImplTest" time="0.019" tests="5" errors="0" skipped="0" failures="5">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.bank.service.impl.test.TransactionServiceImplTest" time="0.1" tests="2" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="15"/>
     <property name="sun.cpu.isalist" value="amd64"/>
@@ -15,7 +15,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
     <property name="sun.boot.library.path" value="M:\sts-4.9.0.RELEASE\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_15.0.1.v20201027-0507\jre\bin"/>
-    <property name="sun.java.command" value="C:\Users\Ryzen\AppData\Local\Temp\surefire15200291533132949450\surefirebooter10855591298376631432.jar C:\Users\Ryzen\AppData\Local\Temp\surefire15200291533132949450 2021-01-11T14-09-54_637-jvmRun1 surefire11188509944838862302tmp surefire_09452604236537362509tmp"/>
+    <property name="sun.java.command" value="C:\Users\Ryzen\AppData\Local\Temp\surefire17335334679850823786\surefirebooter7739234000527004012.jar C:\Users\Ryzen\AppData\Local\Temp\surefire17335334679850823786 2021-01-13T12-41-13_443-jvmRun1 surefire6587667824509810901tmp surefire_07885189419049498491tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="D:\JavaCertificationClass\Project\bank_main\target\test-classes;D:\JavaCertificationClass\Project\bank_main\target\classes;C:\Users\Ryzen\.m2\repository\org\postgresql\postgresql\42.2.5\postgresql-42.2.5.jar;C:\Users\Ryzen\.m2\repository\log4j\log4j\1.2.17\log4j-1.2.17.jar;C:\Users\Ryzen\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.4.2\junit-jupiter-api-5.4.2.jar;C:\Users\Ryzen\.m2\repository\org\apiguardian\apiguardian-api\1.0.0\apiguardian-api-1.0.0.jar;C:\Users\Ryzen\.m2\repository\org\opentest4j\opentest4j\1.1.1\opentest4j-1.1.1.jar;C:\Users\Ryzen\.m2\repository\org\junit\platform\junit-platform-commons\1.4.2\junit-platform-commons-1.4.2.jar;C:\Users\Ryzen\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.4.2\junit-jupiter-engine-5.4.2.jar;C:\Users\Ryzen\.m2\repository\org\junit\platform\junit-platform-engine\1.4.2\junit-platform-engine-1.4.2.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -31,7 +31,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\Ryzen\AppData\Local\Temp\surefire15200291533132949450\surefirebooter10855591298376631432.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\Ryzen\AppData\Local\Temp\surefire17335334679850823786\surefirebooter7739234000527004012.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="15.0.1+9-18"/>
@@ -56,29 +56,6 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="59.0"/>
   </properties>
-  <testcase name="testUpdateCount" classname="com.bank.service.impl.test.TransactionServiceImplTest" time="0.012">
-    <failure message="Not yet implemented" type="org.opentest4j.AssertionFailedError">org.opentest4j.AssertionFailedError: Not yet implemented
-	at com.bank.service.impl.test.TransactionServiceImplTest.testUpdateCount(TransactionServiceImplTest.java:11)
-</failure>
-  </testcase>
-  <testcase name="testGetTransactionById" classname="com.bank.service.impl.test.TransactionServiceImplTest" time="0">
-    <failure message="Not yet implemented" type="org.opentest4j.AssertionFailedError">org.opentest4j.AssertionFailedError: Not yet implemented
-	at com.bank.service.impl.test.TransactionServiceImplTest.testGetTransactionById(TransactionServiceImplTest.java:16)
-</failure>
-  </testcase>
-  <testcase name="testGetAllTransactions" classname="com.bank.service.impl.test.TransactionServiceImplTest" time="0.001">
-    <failure message="Not yet implemented" type="org.opentest4j.AssertionFailedError">org.opentest4j.AssertionFailedError: Not yet implemented
-	at com.bank.service.impl.test.TransactionServiceImplTest.testGetAllTransactions(TransactionServiceImplTest.java:21)
-</failure>
-  </testcase>
-  <testcase name="testGetAllTransactionsOfACustomer" classname="com.bank.service.impl.test.TransactionServiceImplTest" time="0.001">
-    <failure message="Not yet implemented" type="org.opentest4j.AssertionFailedError">org.opentest4j.AssertionFailedError: Not yet implemented
-	at com.bank.service.impl.test.TransactionServiceImplTest.testGetAllTransactionsOfACustomer(TransactionServiceImplTest.java:26)
-</failure>
-  </testcase>
-  <testcase name="testNewTransaction" classname="com.bank.service.impl.test.TransactionServiceImplTest" time="0.001">
-    <failure message="Not yet implemented" type="org.opentest4j.AssertionFailedError">org.opentest4j.AssertionFailedError: Not yet implemented
-	at com.bank.service.impl.test.TransactionServiceImplTest.testNewTransaction(TransactionServiceImplTest.java:31)
-</failure>
-  </testcase>
+  <testcase name="testGetTransactionById" classname="com.bank.service.impl.test.TransactionServiceImplTest" time="0.045"/>
+  <testcase name="testGetAllTransactions" classname="com.bank.service.impl.test.TransactionServiceImplTest" time="0.04"/>
 </testsuite>

@@ -6,16 +6,12 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
-import java.util.stream.Collectors;
 
 import org.apache.log4j.Logger;
 
 import com.bank.dao.EmployeeDAO;
 import com.bank.dao.dbutil.PostresqlConnection;
-import com.bank.exception.AccountException;
 import com.bank.exception.EmployeeException;
-import com.bank.main.BankMain;
-import com.bank.model.Account;
 import com.bank.model.Employee;
 
 public class EmployeeDAOImpl implements EmployeeDAO{

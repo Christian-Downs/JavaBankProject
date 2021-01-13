@@ -11,7 +11,6 @@ import org.apache.log4j.Logger;
 
 import com.bank.dao.TransferDAO;
 import com.bank.dao.dbutil.PostresqlConnection;
-import com.bank.exception.TransactionException;
 import com.bank.exception.TransferException;
 import com.bank.model.Customer;
 import com.bank.model.Transfer;

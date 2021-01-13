@@ -9,12 +9,14 @@ import java.util.List;
 import org.junit.jupiter.api.Test;
 
 import com.bank.dao.TransferDAO;
+import com.bank.exception.CustomerException;
 import com.bank.exception.TransferException;
 import com.bank.model.Customer;
 import com.bank.model.Transfer;
+import com.bank.service.CustomerService;
+import com.bank.service.impl.CustomerServiceImpl;
 
 class TransferDAOImplTest {
-
 	@Test
 	void testGetTransferByID() {
 		TransferDAO transferDAO = new TransferDAOImpl();
@@ -48,17 +50,25 @@ class TransferDAOImplTest {
 		
 	}
 
-	// insert test has to be commented out so that random transfers don't happen while testing
+//	 insert test has to be commented out so that random transfers don't happen while testing
 //	@Test 
 //	void testNewTransfer() {
-//		Transfer transferToInsert = new Transfer("1001","1002",5.0,Date.valueOf(LocalDate.now()),false);
-//		TransferDAO transferDAO = new TransferDAOImpl();
+//		CustomerService customerService = new CustomerServiceImpl();
+//		Transfer transferToInsert;
 //		try {
-//			transferDAO.newTransfer(transferToInsert);
-//		} catch (TransferException e) {
+//			transferToInsert = new Transfer(customerService.findCustomerByAccountNumber("1001"),"1002",12);
+//			TransferDAO transferDAO = new TransferDAOImpl();
+//			try {
+//				transferDAO.newTransfer(transferToInsert);
+//			} catch (TransferException e) {
+//				// TODO Auto-generated catch block
+//				fail(e);
+//			}
+//		} catch (CustomerException e1) {
 //			// TODO Auto-generated catch block
-//			fail(e);
+//			fail(e1);
 //		}
+//
 //	}
 
 	@Test

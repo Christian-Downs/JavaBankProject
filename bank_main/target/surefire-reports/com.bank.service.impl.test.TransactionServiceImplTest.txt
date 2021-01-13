@@ -1,24 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.bank.service.impl.test.TransactionServiceImplTest
 -------------------------------------------------------------------------------
-Tests run: 5, Failures: 5, Errors: 0, Skipped: 0, Time elapsed: 0.019 s <<< FAILURE! - in com.bank.service.impl.test.TransactionServiceImplTest
-testUpdateCount  Time elapsed: 0.012 s  <<< FAILURE!
-org.opentest4j.AssertionFailedError: Not yet implemented
-	at com.bank.service.impl.test.TransactionServiceImplTest.testUpdateCount(TransactionServiceImplTest.java:11)
-
-testGetTransactionById  Time elapsed: 0 s  <<< FAILURE!
-org.opentest4j.AssertionFailedError: Not yet implemented
-	at com.bank.service.impl.test.TransactionServiceImplTest.testGetTransactionById(TransactionServiceImplTest.java:16)
-
-testGetAllTransactions  Time elapsed: 0.001 s  <<< FAILURE!
-org.opentest4j.AssertionFailedError: Not yet implemented
-	at com.bank.service.impl.test.TransactionServiceImplTest.testGetAllTransactions(TransactionServiceImplTest.java:21)
-
-testGetAllTransactionsOfACustomer  Time elapsed: 0.001 s  <<< FAILURE!
-org.opentest4j.AssertionFailedError: Not yet implemented
-	at com.bank.service.impl.test.TransactionServiceImplTest.testGetAllTransactionsOfACustomer(TransactionServiceImplTest.java:26)
-
-testNewTransaction  Time elapsed: 0.001 s  <<< FAILURE!
-org.opentest4j.AssertionFailedError: Not yet implemented
-	at com.bank.service.impl.test.TransactionServiceImplTest.testNewTransaction(TransactionServiceImplTest.java:31)
-
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.1 s - in com.bank.service.impl.test.TransactionServiceImplTest

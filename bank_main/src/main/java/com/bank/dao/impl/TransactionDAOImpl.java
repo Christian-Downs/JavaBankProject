@@ -18,8 +18,6 @@ import com.bank.model.Transaction;
 import com.bank.service.CustomerService;
 import com.bank.service.impl.CustomerServiceImpl;
 
-import jdk.internal.net.http.common.Log;
-
 public class TransactionDAOImpl implements TransactionDAO {
 	private static Logger log = Logger.getLogger(TransactionDAOImpl.class);
 	@Override

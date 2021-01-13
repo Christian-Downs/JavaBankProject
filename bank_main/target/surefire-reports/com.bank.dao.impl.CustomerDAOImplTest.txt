@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.bank.dao.impl.CustomerDAOImplTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.431 s <<< FAILURE! - in com.bank.dao.impl.CustomerDAOImplTest
+testUpdateCustomerAmount  Time elapsed: 0.427 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <448.0> but was: <462.0>
+	at com.bank.dao.impl.CustomerDAOImplTest.testUpdateCustomerAmount(CustomerDAOImplTest.java:22)
+
