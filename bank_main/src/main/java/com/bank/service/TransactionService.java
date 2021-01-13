@@ -14,5 +14,5 @@ public interface TransactionService {
 	public List<Transaction> getAllTransactionsOfACustomer(Customer customer) throws TransactionException;
 	
 	//PUT
-	public Transaction newTransaction(Transaction transaction) throws TransactionException;
+	public Transaction newTransaction(Transaction transaction, Customer customer) throws TransactionException;
 }

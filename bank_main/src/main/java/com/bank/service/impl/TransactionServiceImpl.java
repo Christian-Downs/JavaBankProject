@@ -16,15 +16,13 @@ public class TransactionServiceImpl implements TransactionService{
 	private Logger log = Logger.getLogger(TransactionServiceImpl.class);
 	@Override
 	public void updateCount() throws TransactionException {
-		// TODO Auto-generated method stub
-		log.debug("intering updateCount for transactions");
+		log.debug("Entering updateCount for transactions");
 		transactionDAO.updateCount();
 	}
 
 	@Override
 	public Transaction getTransactionById(int id) throws TransactionException {
-		// TODO Auto-generated method stub
-		return null;
+		return transactionDAO.getTransactionById(id);
 	}
 
 	@Override
@@ -34,14 +32,13 @@ public class TransactionServiceImpl implements TransactionService{
 
 	@Override
 	public List<Transaction> getAllTransactionsOfACustomer(Customer customer) throws TransactionException {
-		// TODO Auto-generated method stub
-		return null;
+		return transactionDAO.getAllTransactionsOfACustomer(customer);
 	}
 
 	@Override
-	public Transaction newTransaction(Transaction transaction) throws TransactionException {
+	public Transaction newTransaction(Transaction transaction, Customer customer) throws TransactionException {
 		log.debug("inserting new Transaction from Service");
-		transactionDAO.newTransaction(transaction);
+		transactionDAO.newTransaction(transaction, customer);
 		return transaction;
 	}
 

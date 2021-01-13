@@ -26,14 +26,14 @@ public class CustomerServiceImpl implements CustomerService{
 	}
 
 	@Override
-	public List<Customer> allUnapprovedCustomers() throws CustomerException {
+	public List<Customer> allUnreviewedCustomers() throws CustomerException {
 		log.debug("getting all int unapproved customers in customer  service impl");
-		return customerDAO.allUnapprovedCustomers();
+		return customerDAO.allUnreviewedCustomers();
 	}
 
 	@Override
-	public void approveCustomer(Customer customer) throws CustomerException {
-		customerDAO.approveCustomer(customer);
+	public void changeApprovealStatusOfCustomer(Customer customer,boolean approved) throws CustomerException {
+		customerDAO.changeApprovealStatusOfCustomer(customer,approved);
 	}
 
 	@Override
@@ -45,6 +45,17 @@ public class CustomerServiceImpl implements CustomerService{
 	@Override
 	public String makeAccountNumber() throws CustomerException {
 		return customerDAO.makeAccountNumber();
+	}
+
+	@Override
+	public void updateCustomerAmount(Customer customer, double amountToChangeItBy,String type) throws CustomerException {
+		if(type.equals("deposit"))
+			customer.setAmount(customer.getAmount()+amountToChangeItBy);
+		else if(type.equals("withdraw"))
+			customer.setAmount(customer.getAmount()-amountToChangeItBy);
+		else
+			throw new CustomerException("The type of transaction doesn't exist");
+		customerDAO.updateCustomerAmount(customer);
 	}
 
 }

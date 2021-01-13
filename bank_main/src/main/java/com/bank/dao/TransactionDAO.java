@@ -14,6 +14,5 @@ public interface TransactionDAO {
 	public List<Transaction> getAllTransactionsOfACustomer(Customer customer) throws TransactionException;
 	
 	//PUT
-	public void newTransaction(Transaction transaction) throws TransactionException;
-	public void newTransfer(String accountNumber) throws TransactionException;
+	public void newTransaction(Transaction transaction,Customer customer) throws TransactionException;
 }

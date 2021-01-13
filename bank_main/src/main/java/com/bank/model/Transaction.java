@@ -15,6 +15,7 @@ public class Transaction {
 	private double transactionAmount;
 	private Date dateOf;
 	private static int count=0;
+	private String type;
 	
 	public Transaction() {
 		
@@ -27,9 +28,11 @@ public class Transaction {
 		this.transactionAmount = transactionAmount;
 		this.dateOf = new Date(System.currentTimeMillis());
 		if(deposit) {
+			this.type = "deposit";
 			this.newAmount = previousAmount+transactionAmount;
 		}
 		else {
+			this.type = "withdraw";
 			double newAmount = previousAmount-transactionAmount; 
 			if(newAmount>= 0.00) {
 				this.newAmount= newAmount;
@@ -39,19 +42,28 @@ public class Transaction {
 		}
 	}
 	
-	public Transaction(String accountNumber, int id,double previousAmount, double newAmount, double transactionAmount, Date date) {
+	public String getType() {
+		return type;
+	}
+
+	public void setType(String type) {
+		this.type = type;
+	}
+
+	public Transaction(String accountNumber, int id,double previousAmount, double newAmount, double transactionAmount, Date date,String type) {
 		this.accountNumber = accountNumber;
 		this.id = id;
 		this.previousAmount = previousAmount;
 		this.newAmount = newAmount;
 		this.transactionAmount = transactionAmount;
 		this.dateOf = date;
+		this.type = type;
 		
 	}
 	
 	@Override
 	public String toString() {
-		return ("id: " + this.id+"\naccount number: " +this.accountNumber+ "\nprevious amount: " + this.previousAmount + "\nnew amount: " + this.newAmount + "\ntransaction amount: " + this.transactionAmount+ "\ndate created: " + this.dateOf);
+		return ("id: " + this.id+"\naccount number: " +this.accountNumber+ "\nprevious amount: " + this.previousAmount + "\nnew amount: " + this.newAmount + "\ntransaction amount: " + this.transactionAmount+ "\ndate created: " + this.dateOf + "\ntype: " + this.type);
 	}
 	public int getId() {
 		return id;

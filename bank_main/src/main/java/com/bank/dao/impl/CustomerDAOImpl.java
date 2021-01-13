@@ -35,11 +35,12 @@ public class CustomerDAOImpl implements CustomerDAO{
 			ResultSet resultSet = preparedStatement.executeQuery();
 			while(resultSet.next())
 			{
-				return new Customer(resultSet.getString("name"),resultSet.getString("accountnumber"),resultSet.getDate("dateOfBirth"),resultSet.getDate("creationDate"),resultSet.getString("type"),resultSet.getDouble("amount"),resultSet.getBoolean("approved"));
+				return new Customer(resultSet.getString("name"),resultSet.getString("accountnumber"),resultSet.getDate("dateOfBirth"),resultSet.getDate("creationDate"),resultSet.getString("type"),resultSet.getDouble("amount"),resultSet.getBoolean("approved"),resultSet.getBoolean("reviewed"));
 			}
 			
 		} catch (ClassNotFoundException |SQLException  e){
-			
+			log.trace("Error in the find the customer by account number DAO");
+			throw new CustomerException("ERROR IN THE FIND CUSTOMER BY ACCOUNT DAO");
 		}
 		return null;
 	}
@@ -57,7 +58,7 @@ public class CustomerDAOImpl implements CustomerDAO{
 			log.debug("entering customers into the list");
 			while(resultSet.next())
 			{
-				Customer customer = new Customer(resultSet.getString("name"),resultSet.getString("accountnumber"),resultSet.getDate("\"dateOfBirth\""),resultSet.getDate("\"creationDate\""),resultSet.getString("type"),resultSet.getDouble("amount"),resultSet.getBoolean("approved"));
+				Customer customer = new Customer(resultSet.getString("name"),resultSet.getString("accountnumber"),resultSet.getDate("\"dateOfBirth\""),resultSet.getDate("\"creationDate\""),resultSet.getString("type"),resultSet.getDouble("amount"),resultSet.getBoolean("approved"),resultSet.getBoolean("reviewed"));
 				customers.add(customer);
 			}
 		}catch(ClassNotFoundException |SQLException  e) {
@@ -69,19 +70,19 @@ public class CustomerDAOImpl implements CustomerDAO{
 	}
 
 	@Override
-	public List<Customer> allUnapprovedCustomers() throws CustomerException {
+	public List<Customer> allUnreviewedCustomers() throws CustomerException {
 		List<Customer> customers= new ArrayList();
 		
 		try {
 			log.debug("Starting connection for all unapproved customers");
 			Connection connection = PostresqlConnection.getConnection();
-			String sql = "select * from \"BankProject\".customer c where c.approved = false;";
+			String sql = "select * from \"BankProject\".customer c where c.reviewed = false";
 			PreparedStatement preparedStatement = connection.prepareStatement(sql);
 			ResultSet resultSet = preparedStatement.executeQuery();
 			log.debug("entering customers into the list");
 			while(resultSet.next())
 			{
-				Customer customer = new Customer(resultSet.getString("name"),resultSet.getString("accountnumber"),resultSet.getDate("dateOfBirth"),resultSet.getDate("creationDate"),resultSet.getString("type"),resultSet.getDouble("amount"),resultSet.getBoolean("approved"));
+				Customer customer = new Customer(resultSet.getString("name"),resultSet.getString("accountnumber"),resultSet.getDate("dateOfBirth"),resultSet.getDate("creationDate"),resultSet.getString("type"),resultSet.getDouble("amount"),resultSet.getBoolean("approved"),resultSet.getBoolean("reviewed"));
 				customers.add(customer);
 			}
 		}catch(ClassNotFoundException |SQLException  e) {
@@ -93,17 +94,19 @@ public class CustomerDAOImpl implements CustomerDAO{
 	}
 
 	@Override
-	public void approveCustomer(Customer customer) throws CustomerException {
+	public void  changeApprovealStatusOfCustomer(Customer customer, boolean approved)  throws CustomerException {
 		try {
 			log.debug("Starting connection for the approval process");
 			Connection connection = PostresqlConnection.getConnection();
-			String sql ="UPDATE \"BankProject\".customer set approved = true where accountnumber = ?";
+			String sql ="UPDATE \"BankProject\".customer set approved = ?, reviewed = true where accountnumber = ?";
 			PreparedStatement preparedStatement = connection.prepareStatement(sql);
-			preparedStatement.setString(1, customer.getAccountNumber());
+			preparedStatement.setBoolean(1, approved);
+			preparedStatement.setString(2, customer.getAccountNumber());
 			int output = preparedStatement.executeUpdate();
-			log.debug(output);
+			//log.debug(output);
 			if(output!=0) {
-				customer.setApproved(true);
+				customer.setApproved(approved);
+				customer.setReviewed(true);
 				log.info("Successefull update of "+ customer.getName()+" account.");
 			} else {
 				throw new CustomerException("Error in update");
@@ -111,8 +114,8 @@ public class CustomerDAOImpl implements CustomerDAO{
 			
 		}catch(ClassNotFoundException|SQLException e) {
 			log.debug(e);
-			log.debug("ERROR INSIDE THE CONNECTOR FOR THE APPROVAL PROCESS");
-			log.info("PLEASE CONTACT IT THERE IS AN ERROR IN THE APPROVAL SECTION");
+			throw new CustomerException("ERROR INSIDE THE CONNECTOR FOR THE APPROVAL PROCESS");
+			//log.info("PLEASE CONTACT IT THERE IS AN ERROR IN THE APPROVAL SECTION");
 		}
 		
 	}
@@ -172,6 +175,33 @@ public class CustomerDAOImpl implements CustomerDAO{
 			log.trace(e);
 			throw new CustomerException("ERROR INSIDE THE MAKE ACCOUNT NUMBER METHOD");
 		}
+		
+	}
+
+	@Override
+	public void updateCustomerAmount(Customer customer) throws CustomerException {
+		log.debug("Starting the update customer amount process");
+		try {
+			Connection connection = PostresqlConnection.getConnection();
+			String sql = "UPDATE \"BankProject\".customer\r\n"
+					+ "	SET amount=?\r\n"
+					+ "	WHERE accountnumber=?;";
+			PreparedStatement preparedStatement = connection.prepareStatement(sql);
+			preparedStatement.setDouble(1, customer.getAmount());
+			preparedStatement.setString(2, customer.getAccountNumber());
+			if(preparedStatement.executeUpdate()!=0) {
+				return;
+			}
+			else {
+				
+				throw new CustomerException("An error occured please contact customer service");
+			}
+		} catch (ClassNotFoundException | SQLException e) {
+			// TODO Auto-generated catch block
+			log.trace(e.getMessage());
+			throw new CustomerException("Error at updateCustomerAmountDAO");
+		}
+		
 		
 	}
 

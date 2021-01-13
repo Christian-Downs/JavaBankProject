@@ -11,8 +11,9 @@ public class Customer extends Account{
 	private String type;
 	private double amount;
 	private boolean approved;
+	private boolean reviewed;
 	
-	public Customer(String name, String accountNumber, Date dateOfBirth, Date creationDate, String type, double amount, boolean approved) {
+	public Customer(String name, String accountNumber, Date dateOfBirth, Date creationDate, String type, double amount, boolean approved,boolean reviewed) {
 		this.name = name;
 		this.accountNumber = accountNumber;
 		this.dateOfBirth = dateOfBirth;
@@ -20,6 +21,7 @@ public class Customer extends Account{
 		this.type = type;
 		this.amount = amount;
 		this.approved = approved;
+		this.reviewed = reviewed;
 	}
 	
 	public Customer() {
@@ -72,5 +74,13 @@ public class Customer extends Account{
 
 	public void setApproved(boolean approved) {
 		this.approved = approved;
+	}
+
+	public boolean isReviewed() {
+		return reviewed;
+	}
+
+	public void setReviewed(boolean reviewed) {
+		this.reviewed = reviewed;
 	}
 }
